@@ -1,0 +1,7617 @@
+
+113170_Nguyễn Ngọc Thương Hoài
+
+Văn: 5 Toán: 2 Ngoại Ngữ: 2 Môn Chuyên: 0
+
+113171_Huỳnh Huy Hoàng
+
+Văn: 5,25 Toán: 5,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113172_Lê Nhật Hoàng
+
+Văn: 4 Toán: 5,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113173_Nguyễn Đặng Bảo Hoàng
+
+Văn: 6,25 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113174_Nguyễn Huy Hoàng
+
+Văn: 4,75 Toán: 4,5 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113175_Nguyễn Huy Hoàng
+
+Văn: 6 Toán: 6,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113176_Nguyễn Minh Hoàng
+
+Văn: 6,5 Toán: 5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113177_Nguyễn Văn Hoàng
+
+Văn: 6,25 Toán: 4,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113178_Nguyễn Việt Hoàng
+
+Văn: 7 Toán: 6,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113179_Nguyễn Võ Hoàng
+
+Văn: 4,75 Toán: 4,5 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113180_Phạm Minh Hoàng
+
+Văn: 4,75 Toán: 3,75 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113181_Lương Minh Hồng
+
+Văn: 3,75 Toán: 2,25 Ngoại Ngữ: 2,25 Môn Chuyên: 0
+
+113182_Lý Vĩnh Hồng
+
+Văn: 4 Toán: 4,25 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113183_Lâm Gia Huệ
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113184_Ngô Nhã Huệ
+
+Văn: 4,25 Toán: 4,5 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113185_Hà Kiến Hùng
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113186_Nguyễn Tấn Hùng
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113187_Nguyễn Trịnh Thanh Hùng
+
+Văn: 4,75 Toán: 4,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113188_Ong Trương Khải Hùng
+
+Văn: 8,25 Toán: 7,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113189_Phạm Minh Hùng
+
+Văn: 6 Toán: 6 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113190_Phan Anh Hùng
+
+Văn: 6,25 Toán: 4,25 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113191_Vương Tuấn Hùng
+
+Văn: 4,5 Toán: 4 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113192_Cao Phan Gia Hưng
+
+Văn: 5 Toán: 4,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113193_Đặng Hưng
+
+Văn: 3,5 Toán: 3,75 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113194_Diêu Nguyễn Gia Hưng
+
+Văn: 5,25 Toán: 4,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113195_Đoàn Quốc Hưng
+
+Văn: 6 Toán: 3,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113196_Lâm Trịnh Thuận Hưng
+
+Văn: 6 Toán: 5,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113197_Lê Nguyễn Gia Hưng
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113198_Nguyễn Hưng
+
+Văn: 7 Toán: 8 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113199_Nguyễn Chấn Hưng
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113200_Nguyễn Phùng Hiệp Hưng
+
+Văn: 6,75 Toán: 7,5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113201_Nguyễn Tấn Hưng
+
+Văn: 7,25 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113202_Nguyễn Tiến Hưng
+
+Văn: 5,25 Toán: 3,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113203_Nguyễn Tiến Hưng
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113204_Nguyễn Trí Hưng
+
+Văn: 6,5 Toán: 5,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113205_Trần Dương Gia Hưng
+
+Văn: 5,5 Toán: 6,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113206_Trần Mạnh Hưng
+
+Văn: 6 Toán: 6,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113207_Lâm Nguyễn Kim Hương
+
+Văn: 6,5 Toán: 2 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113208_Ngô Thị Thu Hương
+
+Văn: 6,25 Toán: 5,75 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113209_Nguyễn Thị Hương
+
+Văn: 4,25 Toán: 2 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113210_Phạm Minh Hương
+
+Văn: 7,5 Toán: 5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113211_Trần Thị Thu Hương
+
+Văn: 4,5 Toán: 4,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113212_Nguyễn Quốc Hữu
+
+Văn: 7 Toán: 4,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113213_Võ Học Hữu
+
+Văn: 5,75 Toán: 6 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113214_Bùi Nguyễn Quốc Huy
+
+Văn: 5 Toán: 5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113215_Đặng Nguyễn Nam Huy
+
+Văn: 7,75 Toán: 8 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113216_Đinh Gia Huy
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113217_Đỗ Gia Huy
+
+Văn: 7,75 Toán: 7,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113218_Đỗ Hoàng Huy
+
+Văn: 5 Toán: 0,75 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113219_Dương Gia Huy
+
+Văn: 6,5 Toán: 5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113220_Hồ Nguyễn Gia Huy
+
+Văn: 2,75 Toán: 1 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113221_Hoàng Gia Huy
+
+Văn: 7,5 Toán: 7 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113222_Kim Nhật Huy
+
+Văn: 7,25 Toán: 5,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113223_Lê Bảo Huy
+
+Văn: 6 Toán: 6,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113224_Lê Đức Huy
+
+Văn: 8 Toán: 8 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113225_Lê Gia Huy
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113226_Lê Phúc Huy
+
+Văn: 7 Toán: 6,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113227_Lưu Gia Huy
+
+Văn: 7 Toán: 5 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113228_Lý Ngô Gia Huy
+
+Văn: 3,25 Toán: 4 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113229_Lý Ngọc Huy
+
+Văn: 5,5 Toán: 4,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113230_Mai Anh Quốc Huy
+
+Văn: 6 Toán: 5,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113231_Nguyễn Gia Huy
+
+Văn: 7 Toán: 5,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113232_Nguyễn Lai Quang Huy
+
+Văn: 6,25 Toán: 5,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113233_Nguyễn Minh Huy
+
+Văn: 6,75 Toán: 9 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113234_Nguyễn Quang Huy
+
+Văn: 5,5 Toán: 4,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113235_Nguyễn Tấn Huy
+
+Văn: 4 Toán: 2,75 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113236_Nguyễn Thái Gia Huy
+
+Văn: Toán: Ngoại Ngữ: Môn Chuyên: 
+
+113237_Nguyễn Tú Nhất Huy
+
+Văn: 6,75 Toán: 3,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113238_Phạm Anh Huy
+
+Văn: 5,75 Toán: 3,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113239_Phạm Hoàng Huy
+
+Văn: 5,25 Toán: 2,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113240_Tiêu Quốc Huy
+
+Văn: 6,75 Toán: 4,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113241_Tô Gia Huy
+
+Văn: 3,25 Toán: 2,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113242_Trần Gia Huy
+
+Văn: 6,25 Toán: 2,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113243_Trần Gia Huy
+
+Văn: 2,25 Toán: 2,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113244_Trần Hoàng Huy
+
+Văn: 6 Toán: 5,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113245_Trần Quang Huy
+
+Văn: 5,5 Toán: 7,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113246_Trần Quốc Huy
+
+Văn: 5,25 Toán: 4,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113247_Triệu Gia Huy
+
+Văn: 6 Toán: 4,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113248_Trịnh Võ Quốc Huy
+
+Văn: 7,75 Toán: 7,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113249_Trương Văn Huy
+
+Văn: 6 Toán: 3 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113250_Hà Nguyễn Thu Huyền
+
+Văn: 5 Toán: 4,5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113251_Lê Thái Thụy Ngọc Huyền
+
+Văn: 5,25 Toán: 1 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113252_Đinh Như Huỳnh
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113253_Trương Tín Hy
+
+Văn: 7,5 Toán: 6 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113254_Nguyễn Bùi Nhật Kha
+
+Văn: 6,75 Toán: 5,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113255_Từ Nguyễn Tú Kha
+
+Văn: 6,75 Toán: 8 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113256_Hồ Minh Khải
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113257_Phạm Tuấn Khải
+
+Văn: 6 Toán: 3,5 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113258_Phan Lê Tuấn Khải
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113259_Thái Gia Khải
+
+Văn: 8 Toán: 4 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113260_Trang Quốc Khải
+
+Văn: 6 Toán: 4,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113261_Đào Nguyên Khang
+
+Văn: 6,75 Toán: 7,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113262_Dương Gia Khang
+
+Văn: 7,5 Toán: 5,75 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113263_Hà Phúc Khang
+
+Văn: 5,5 Toán: 3 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113264_Hồ Nguyên Khang
+
+Văn: 4,5 Toán: 2,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113265_Hoàng Đăng Khang
+
+Văn: 5 Toán: 3,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113266_Lâm Nhật Khang
+
+Văn: 6,25 Toán: 3,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113267_Lê Tuấn Khang
+
+Văn: 6,25 Toán: 6,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113268_Lương Hoài Khang
+
+Văn: 2,5 Toán: 2,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113269_Lý Hoàng Khang
+
+Văn: 6,75 Toán: 6,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113270_Lý Hồng Khang
+
+Văn: 5 Toán: 3,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113271_Nguyễn Đức Khang
+
+Văn: 4 Toán: 3,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113272_Nguyễn Dương Khang
+
+Văn: 2,75 Toán: 0 Ngoại Ngữ: 1,5 Môn Chuyên: 0
+
+113273_Nguyễn Dương Hữu Khang
+
+Văn: 6,5 Toán: 5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113274_Nguyễn Duy Khang
+
+Văn: 6 Toán: 6,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113275_Nguyễn Hà Phúc Khang
+
+Văn: 6,25 Toán: 3 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113276_Nguyễn Hoàng An Khang
+
+Văn: 3,75 Toán: 3 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113277_Nguyễn Hoàng Nguyên Khang
+
+Văn: 3,5 Toán: 5,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113278_Nguyễn Huỳnh Phúc Khang
+
+Văn: 6 Toán: 5,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113279_Nhan Bửu Khang
+
+Văn: 6 Toán: 9,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113280_Phạm Phúc Khang
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113281_Phan Trịnh Minh Khang
+
+Văn: 8,25 Toán: 8,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113282_Trần Hoàng Trí Khang
+
+Văn: 4,75 Toán: 3,75 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113283_Trần Lê Khang
+
+Văn: 5,75 Toán: 8 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113284_Trần Tuấn Khang
+
+Văn: 4 Toán: 0,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113285_Trần Vĩnh Khang
+
+Văn: 6,75 Toán: 8,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113286_Vãi Mạnh Khang
+
+Văn: 6 Toán: 3,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113287_Võ Hoàng Minh Khang
+
+Văn: 6 Toán: 2,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113288_Võ Lâm Bảo Khang
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113289_Lê Vũ Ngọc Khanh
+
+Văn: 6,5 Toán: 5,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113290_Nguyễn Hoàng Đan Khanh
+
+Văn: 7 Toán: 5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113291_Nguyễn Lê Kiều Khanh
+
+Văn: 6,75 Toán: 4,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113292_Nguyễn Phương Khanh
+
+Văn: 8 Toán: 7,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113293_Trần Lễ Quang Khanh
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113294_Võ Bảo Khanh
+
+Văn: 7,25 Toán: 8,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113295_Võ Thị Phương Khanh
+
+Văn: 6,25 Toán: 1,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113296_Bùi Hiển Khánh
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113297_Đinh Gia Khánh
+
+Văn: 5 Toán: 6,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113298_Dương Quốc Khánh
+
+Văn: 5,25 Toán: 6,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113299_Lai Huy Khánh
+
+Văn: 2,5 Toán: 3,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113300_Lê Huỳnh Minh Khánh
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113301_Lê Ngọc Như Khánh
+
+Văn: 3 Toán: 4 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113302_Lê Thái Quốc Khánh
+
+Văn: 5,25 Toán: 7,25 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113303_Nguyễn Hoàng Huy Khánh
+
+Văn: 6,75 Toán: 5,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113304_Nguyễn Hoàng Ngọc Khánh
+
+Văn: 5,75 Toán: 5,5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113305_Nguyễn Ngô Hoàng Khánh
+
+Văn: 4,75 Toán: 6 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113306_Nguyễn Ngọc Bảo Khánh
+
+Văn: 5,75 Toán: 2,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113307_Nguyễn Tăng Gia Khánh
+
+Văn: 6,75 Toán: 6 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113308_Sỳ Vinh Khánh
+
+Văn: 6,25 Toán: 5,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113309_Tạ Hoàng Bảo Khánh
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113310_Trần Gia Khánh
+
+Văn: 4 Toán: 5,75 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113311_Trần Ngọc Khánh
+
+Văn: 6,5 Toán: 6,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113312_Trịnh Ngô Minh Khánh
+
+Văn: 6,25 Toán: 8,75 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113313_Võ Hoàng Kim Khánh
+
+Văn: 6,75 Toán: 4,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113314_Võ Ngọc Khánh
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113315_Hoàng Quốc Khiêm
+
+Văn: 5,75 Toán: 5,5 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113316_Huỳnh Gia Khiêm
+
+Văn: 6 Toán: 6,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113317_Phạm Gia Khiêm
+
+Văn: 5,5 Toán: 7 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113318_Phan Gia Khiêm
+
+Văn: 5,5 Toán: 1 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113319_Quách Ứng Khiêm
+
+Văn: 1,75 Toán: 2,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113320_Võ Phước Khiêm
+
+Văn: 4,5 Toán: 3,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113321_Đinh Hoàng Khiết
+
+Văn: 7 Toán: 6,5 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113322_Lê Thanh Khiết
+
+Văn: 6 Toán: 6,25 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113323_Bùi Minh Khoa
+
+Văn: 3,75 Toán: 3,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113324_Cái Anh Khoa
+
+Văn: 4,25 Toán: 3,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113325_Đinh Nguyễn Anh Khoa
+
+Văn: 5,5 Toán: 4,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113326_Đỗ Đăng Khoa
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113327_Dương Hoàng Đăng Khoa
+
+Văn: 4,5 Toán: 0 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113328_Hoàng Đăng Khoa
+
+Văn: 7,5 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113329_Huỳnh Đăng Khoa
+
+Văn: 5,75 Toán: 7 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113330_Huỳnh Tuấn Khoa
+
+Văn: 6,75 Toán: 5,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113331_Nguyễn Anh Khoa
+
+Văn: 4,25 Toán: 5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113332_Nguyễn Cao Anh Khoa
+
+Văn: 4,5 Toán: 6,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113333_Nguyễn Lê Minh Khoa
+
+Văn: 7,25 Toán: 6,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113334_Nguyễn Minh Khoa
+
+Văn: 5,25 Toán: 6,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113335_Nguyễn Nhật Khoa
+
+Văn: 6,75 Toán: 4,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113336_Nguyễn Quý Duy Khoa
+
+Văn: 7 Toán: 4,75 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113337_Nguyễn Thanh Khoa
+
+Văn: 5 Toán: 3,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113338_Nguyễn Tuấn Khoa
+
+Văn: 4,25 Toán: 6,5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113339_Nguyễn Tuấn Khoa
+
+Văn: 4 Toán: 3,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113340_Nguyễn Võ Đăng Khoa
+
+Văn: 6,75 Toán: 5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113341_Nguyễn Võ Đăng Khoa
+
+Văn: 3 Toán: 2,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113342_Ninh Vũ Đăng Khoa
+
+Văn: 6,75 Toán: 7 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113343_Trần Đăng Khoa
+
+Văn: 6,75 Toán: 6,25 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113344_Trần Lê Đăng Khoa
+
+Văn: 4 Toán: 3,25 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113345_Trần Quách Đăng Khoa
+
+Văn: 5,75 Toán: 5,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113346_Trần Thanh Khoa
+
+Văn: 6,5 Toán: 6 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113347_Trịnh Duy Khoa
+
+Văn: 8 Toán: 8,25 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113348_Võ Anh Khoa
+
+Văn: 6 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113349_Võ Đăng Khoa
+
+Văn: 5,25 Toán: 4,25 Ngoại Ngữ: 2 Môn Chuyên: 0
+
+113350_Võ Long Nguyên Khoa
+
+Văn: 6,25 Toán: 7 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113351_Võ Phước Đăng Khoa
+
+Văn: 4,75 Toán: 2,75 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113352_Đặng Nguyễn Đăng Khôi
+
+Văn: 7,25 Toán: 8,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113353_Huỳnh Anh Khôi
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113354_Lê Minh Khôi
+
+Văn: 6,5 Toán: 6,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113355_Lê Minh Khôi
+
+Văn: 5,25 Toán: 3 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113356_Lê Nguyễn Anh Khôi
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113357_Lê Nguyễn Minh Khôi
+
+Văn: 7,5 Toán: 4,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113358_Lê Phạm Minh Khôi
+
+Văn: 8,25 Toán: 5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113359_Nguyễn Đoàn Minh Khôi
+
+Văn: 6,25 Toán: 2,75 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113360_Nguyễn Huỳnh Anh Khôi
+
+Văn: 5,25 Toán: 3,25 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113361_Nguyễn Minh Khôi
+
+Văn: 8 Toán: 5,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113362_Nguyễn Minh Khôi
+
+Văn: 6,75 Toán: 5,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113363_Nguyễn Minh Khôi
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113364_Nguyễn Tấn Trí Khôi
+
+Văn: 7,25 Toán: 2,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113365_Phạm Khôi
+
+Văn: 8,25 Toán: 6,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113366_Trần Tiêu Minh Khôi
+
+Văn: 4,25 Toán: 3,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113367_Vũ Đức Anh Khôi
+
+Văn: 7,5 Toán: 7,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113368_Bùi Ngọc Đan Khuê
+
+Văn: 5,25 Toán: 1,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113369_Đàm Minh Khuê
+
+Văn: 5,25 Toán: 4,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113370_Đỗ Hoàng Khuê
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113371_Nguyễn Đình Minh Khuê
+
+Văn: 8,75 Toán: 8 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113372_Nguyễn Ngọc Khuê
+
+Văn: 8 Toán: 8,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113373_Phan Ngọc Khuê
+
+Văn: 7,25 Toán: 4,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113374_Trần Hồ Hoàng Kiếm
+
+Văn: 5,75 Toán: 5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113375_Chao Gia Kiên
+
+Văn: 5,25 Toán: 6,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113376_Đặng Nguyễn Trung Kiên
+
+Văn: 6,5 Toán: 4,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113377_Huỳnh Trung Kiên
+
+Văn: 6,25 Toán: 4,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113378_Nguyễn Trung Kiên
+
+Văn: 6 Toán: 2,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113379_Đặng Thế Kiệt
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113380_Đào Tuấn Kiệt
+
+Văn: 5 Toán: 5,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113381_Đỗ Tuấn Kiệt
+
+Văn: 5,25 Toán: 5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113382_Huỳnh Anh Kiệt
+
+Văn: 7,25 Toán: 6,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113383_Lê Nguyễn Minh Kiệt
+
+Văn: 6,75 Toán: 6,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113384_Nguyễn Anh Kiệt
+
+Văn: 3 Toán: 3,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113385_Nguyễn Hoàng Anh Kiệt
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113386_Nguyễn Quốc Anh Kiệt
+
+Văn: 4 Toán: 2,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113387_Nguyễn Tuấn Kiệt
+
+Văn: 8,75 Toán: 6,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113388_Phạm Tuấn Kiệt
+
+Văn: 7,5 Toán: 4,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113389_Tạ Anh Kiệt
+
+Văn: 3 Toán: 2,25 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113390_Trần Gia Kiệt
+
+Văn: 7,5 Toán: 7,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113391_Võ Anh Kiệt
+
+Văn: 6,25 Toán: 3,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113392_Trần Mỹ Kiều
+
+Văn: 8,5 Toán: 8,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113393_Chu Ngọc Thanh Kim
+
+Văn: 5 Toán: 2,75 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113394_Đổng Kim Kim
+
+Văn: 5,25 Toán: 3,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113395_Dương Ngọc Thanh Kim
+
+Văn: 9 Toán: 4,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113396_Hà Kiều Thiên Kim
+
+Văn: 5,25 Toán: 6,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113397_Huỳnh Chương Mỹ Kim
+
+Văn: 7,75 Toán: 4,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113398_Khấu Nguyễn Hoàng Kim
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113399_Lê Diệp Gia Kim
+
+Văn: 8,25 Toán: 7,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113400_Nguyễn Hoàng Kim
+
+Văn: 8,75 Toán: 9 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113401_Nguyễn Huỳnh Thuyên Kim
+
+Văn: 8 Toán: 7,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113402_Nguyễn Lê Hoàng Kim
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113403_Nguyễn Ngọc Kim
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113404_Nguyễn Ngọc Thiên Kim
+
+Văn: 7,5 Toán: 4 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113405_Nguyễn Trịnh Sơn Kim
+
+Văn: 3,5 Toán: 2,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113406_Phạm Ngọc Thiên Kim
+
+Văn: 3 Toán: 0,25 Ngoại Ngữ: 2 Môn Chuyên: 0
+
+113407_Trần Ngọc Thiên Kim
+
+Văn: 8 Toán: 3,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113408_Trần Nguyễn Thiên Kim
+
+Văn: 7 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113409_Võ Thiên Kim
+
+Văn: 7 Toán: 3,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113410_Vũ Trần Hoàng Kim
+
+Văn: 7,5 Toán: 4,25 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113411_Huỳnh Bội Kỳ
+
+Văn: 6,75 Toán: 1,25 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113412_Lương Gia Kỳ
+
+Văn: 7 Toán: 6,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113413_Tăng Thư Kỳ
+
+Văn: 4,75 Toán: 1,75 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113414_Nguyễn Duy Phương Lam
+
+Văn: 7,75 Toán: 5,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113415_Nguyễn Lê Phương Lam
+
+Văn: 8 Toán: 3 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113416_Nguyễn Trúc Lam
+
+Văn: 7 Toán: 3,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113417_Trần Như Hải Lam
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113418_Võ Nguyễn Hoàng Lam
+
+Văn: 5,75 Toán: 4 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113419_Võ Thanh Lam
+
+Văn: 6,75 Toán: 7,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113420_Lê Phan Tuấn Lâm
+
+Văn: 8,5 Toán: 6,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113421_Lê Phan Tùng Lâm
+
+Văn: 8,25 Toán: 9,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113422_Nguyễn Ngọc Lâm
+
+Văn: 4,5 Toán: 3,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113423_Nguyễn Quốc Lâm
+
+Văn: 6,5 Toán: 1,5 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113424_Nguyễn Thị Ngọc Lâm
+
+Văn: 8,5 Toán: 6,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113425_Phương Chấn Lâm
+
+Văn: 7 Toán: 5,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113426_Trần Tuyết Lan
+
+Văn: 7 Toán: 4,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113427_Trần Khánh Lân
+
+Văn: 2,75 Toán: 0 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113428_Chen Xiao Le
+
+Văn: 8,75 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113429_Dương Quang Lễ
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113430_Nguyễn Thị Thúy Liễu
+
+Văn: 5,75 Toán: 4,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113431_Mohamed Linda
+
+Văn: 7,75 Toán: 3,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113432_Châu Đức Linh
+
+Văn: 7,75 Toán: 3,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113433_Cổ Hoàng Nhã Linh
+
+Văn: 5,75 Toán: 3,5 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113434_Giang Khánh Linh
+
+Văn: 6 Toán: 3,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113435_Hoàng Thùy Linh
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113436_Huỳnh Ngọc Linh
+
+Văn: 7,5 Toán: 7,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113437_Huỳnh Nguyễn Khánh Linh
+
+Văn: 8,5 Toán: 8,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113438_Kha Gia Linh
+
+Văn: 5 Toán: 3,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113439_Lâm Tú Linh
+
+Văn: 8 Toán: 6,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113440_Lê Khánh Linh
+
+Văn: 8,5 Toán: 8 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113441_Lưu Hoàng Thảo Linh
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113442_Nguyễn Ánh Linh
+
+Văn: 7 Toán: 5,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113443_Nguyễn Ngọc Linh
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113444_Nguyễn Ngọc Linh
+
+Văn: 7,25 Toán: 7,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113445_Nguyễn Ngọc Thùy Linh
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113446_Nguyễn Thị Ánh Linh
+
+Văn: 8,5 Toán: 4 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113447_Quan Y Linh
+
+Văn: 6,25 Toán: 4 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113448_Trần Huỳnh Ái Linh
+
+Văn: 5,75 Toán: 1,75 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113449_Trần Nguyễn Gia Linh
+
+Văn: 6,5 Toán: 5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113450_Trần Phương Linh
+
+Văn: 8 Toán: 5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113451_Vương Ý Linh
+
+Văn: 6,25 Toán: 4,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113452_Lý Phương Loan
+
+Văn: 7 Toán: 2 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113453_Nguyễn Thị Kim Loan
+
+Văn: 3,75 Toán: 1,25 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113454_Phạm Ngọc Loan
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113455_Trần Thị Thanh Loan
+
+Văn: 6,25 Toán: 2,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113456_Nguyễn Tấn Lộc
+
+Văn: 7,75 Toán: 6,25 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113457_Phù Thành Lộc
+
+Văn: 7,25 Toán: 9 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113458_Trần Hoàng Thiên Lộc
+
+Văn: 7 Toán: 3,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113459_Tạ Hiếu Lợi
+
+Văn: 6,25 Toán: 2,25 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113460_Trương Thạch Lợi
+
+Văn: 8,5 Toán: 4,75 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113461_Bạch Huỳnh Long
+
+Văn: 5,75 Toán: 3,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113462_Bùi Đăng Hoàng Long
+
+Văn: 8,5 Toán: 6,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113463_Đỗ Hoàng Long
+
+Văn: 6,75 Toán: 4,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113464_Huỳnh Minh Long
+
+Văn: 7,75 Toán: 6 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113465_Lê Hoàng Long
+
+Văn: 8 Toán: 4,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113466_Lê Hoàng Long
+
+Văn: 7,25 Toán: 4 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113467_Nguyễn Long
+
+Văn: 6 Toán: 7 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113468_Nguyễn Bửu Thành Long
+
+Văn: 7,5 Toán: 8,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113469_Nguyễn Châu Kỳ Long
+
+Văn: 6,25 Toán: 6,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113470_Nguyễn Hoàng Long
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113471_Nguyễn Kim Long
+
+Văn: 6,5 Toán: 5,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113472_Nguyễn Lê Bảo Long
+
+Văn: 6,5 Toán: 0,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113473_Nguyễn Minh Long
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113474_Nguyễn Nhật Long
+
+Văn: 7 Toán: 5,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113475_Nguyễn Thành Long
+
+Văn: 8 Toán: 9 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113476_Nguyễn Tiến Long
+
+Văn: 5,75 Toán: 6 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113477_Nguyễn Trần Bảo Long
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113478_Nguyễn Trần Hoàng Long
+
+Văn: 6,5 Toán: 5,75 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113479_Phạm Bạch Long
+
+Văn: Toán: Ngoại Ngữ: Môn Chuyên: 
+
+113480_Trần Bảo Long
+
+Văn: 6,5 Toán: 5,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113481_Trần Gia Long
+
+Văn: 5 Toán: 4,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113482_Trần Việt Thành Long
+
+Văn: 3,5 Toán: 4,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113483_Trịnh Tiến Long
+
+Văn: 8,25 Toán: 9,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113484_Võ Hoàng Long
+
+Văn: 2,5 Toán: 2 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113485_Đỗ Thành Luân
+
+Văn: 7,5 Toán: 3,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113486_Nguyễn Tuấn Luân
+
+Văn: 8 Toán: 6,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113487_Nguyễn Minh Lượng
+
+Văn: 5,5 Toán: 2 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113488_Ngô Đình Thảo Ly
+
+Văn: 6,5 Toán: 6,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113489_Phan Khánh Ly
+
+Văn: 7,75 Toán: 2,75 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113490_Phùng Thị Trúc Ly
+
+Văn: 6 Toán: 4,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113491_Trần Trúc Ly
+
+Văn: 6 Toán: 7 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113492_Trịnh Huỳnh Trúc Ly
+
+Văn: 5 Toán: 2,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113493_Vương Bảo Ly
+
+Văn: 8 Toán: 6,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113494_Dương Phương Mai
+
+Văn: 6,75 Toán: 4 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113495_Nguyễn Hoàng Mai
+
+Văn: 7,25 Toán: 7,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113496_Nguyễn Hồng Xuân Mai
+
+Văn: 7 Toán: 3,75 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113497_Nguyễn Lê Hoàng Mai
+
+Văn: 8,25 Toán: 6,25 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113498_Nguyễn Thị Thanh Mai
+
+Văn: 7 Toán: 1,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113499_Võ Kim Mai
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113500_Ngô Gia Mẫn
+
+Văn: 6,5 Toán: 2,75 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113501_Trương Nguyễn Phú Mẫn
+
+Văn: 5,75 Toán: 2,75 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113502_Phạm Hoàng Mi
+
+Văn: 7,5 Toán: 8 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113503_Ishiba Mikimy
+
+Văn: 5,25 Toán: 3 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113504_Dường Phương Minh
+
+Văn: 6,75 Toán: 6,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113505_Dương Thành Minh
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113506_Lâm Sơn Trúc Minh
+
+Văn: 6,25 Toán: 3 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113507_Lê Hùng Tiến Minh
+
+Văn: 5,25 Toán: 4 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113508_Lê Nhất Minh
+
+Văn: 8 Toán: 3,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113509_Lý Gia Minh
+
+Văn: 7 Toán: 7,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113510_Lý Hải Minh
+
+Văn: 7 Toán: 7,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113511_Ngô Nguyễn Nhật Minh
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113512_Nguyễn Ánh Minh
+
+Văn: 8,5 Toán: 4 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113513_Nguyễn Hoàng Minh
+
+Văn: 7 Toán: 6,5 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113514_Nguyễn Hoàng Nhật Minh
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113515_Nguyễn Nhật Minh
+
+Văn: 7,5 Toán: 8 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113516_Nguyễn Nhật Minh
+
+Văn: 8 Toán: 7 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113517_Nguyễn Quang Minh
+
+Văn: 6,25 Toán: 5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113518_Nguyễn Quang Minh
+
+Văn: 7,25 Toán: 2,25 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113519_Nguyễn Trần Hoàng Minh
+
+Văn: 3 Toán: 3,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113520_Nguyễn Trí Minh
+
+Văn: 7,5 Toán: 5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113521_Nguyễn Tuệ Tâm Minh
+
+Văn: 8,25 Toán: 8 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113522_Nguyễn Tường Minh
+
+Văn: 7,75 Toán: 8,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113523_Nguyễn Tuờng Quang Minh
+
+Văn: 5,75 Toán: 5,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113524_Phạm Công Minh
+
+Văn: 5,75 Toán: 2,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113525_Phạm Gia Minh
+
+Văn: 6,5 Toán: 4,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113526_Phạm Khắc Minh
+
+Văn: 6,5 Toán: 7,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113527_Tô Nguyễn Hoàng Minh
+
+Văn: 5 Toán: 2,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113528_Trần Bình Minh
+
+Văn: 6,25 Toán: 6 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113529_Trần Bình Minh
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113530_Trần Cẩm Minh
+
+Văn: 8,25 Toán: 7,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113531_Trần Nguyễn Quang Minh
+
+Văn: 7,5 Toán: 7,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113532_Trần Thị Ngọc Minh
+
+Văn: 7,5 Toán: 5,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113533_Trì Đăng Nhật Minh
+
+Văn: 7,5 Toán: 2,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113534_Trương Anh Minh
+
+Văn: 7,25 Toán: 5,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113535_Trương Gia Minh
+
+Văn: 6,75 Toán: 5,25 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113536_Trương Khánh Minh
+
+Văn: 8 Toán: 6,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113537_Trương Nhật Minh
+
+Văn: 6,75 Toán: 6 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113538_Trương Phạm Công Minh
+
+Văn: 7,75 Toán: 6 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113539_Võ Nhân Trí Minh
+
+Văn: 5,25 Toán: 7,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113540_Dương Hoàng Thảo My
+
+Văn: 5,75 Toán: 2,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113541_Huỳnh Trà My
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113542_Lê Thị Trà My
+
+Văn: 6,75 Toán: 3,25 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113543_Lục Cẩm My
+
+Văn: 5 Toán: 4 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113544_Nguyễn Kim Thảo My
+
+Văn: 7,5 Toán: 3,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113545_Nguyễn Lê Khánh My
+
+Văn: 8 Toán: 7 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113546_Nguyễn Ngọc Hà My
+
+Văn: 5,75 Toán: 4,5 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113547_Nguyễn Ngọc Thảo My
+
+Văn: 7,75 Toán: 4,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113548_Nguyễn Trần Khánh My
+
+Văn: 8,75 Toán: 6,75 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113549_Nguyễn Vương Song My
+
+Văn: 7,75 Toán: 7,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113550_Nguyễn Ý My
+
+Văn: 5,75 Toán: 2,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113551_Trần Lê Gia My
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113552_Võ Tăng Thảo My
+
+Văn: 7 Toán: 4,5 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113553_Lại Kim Mỹ
+
+Văn: 5,25 Toán: 1,5 Ngoại Ngữ: 2,25 Môn Chuyên: 0
+
+113554_Nguyễn Ngọc Thảo Mỹ
+
+Văn: 7 Toán: 2,5 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113555_Trác Thái Mỹ
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113556_Trần Ngọc Phú Mỹ
+
+Văn: 7,5 Toán: 7 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113557_Từ Gia Mỹ
+
+Văn: 6,25 Toán: 6 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113558_Châu Hoài Nam
+
+Văn: 4,75 Toán: 5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113559_Đinh Trung Nam
+
+Văn: 7,25 Toán: 9 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113560_Nguyễn Hải Nam
+
+Văn: 5,5 Toán: 5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113561_Nguyễn Hải Nam
+
+Văn: 3,5 Toán: 7 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113562_Nguyễn Huỳnh Quốc Nam
+
+Văn: 5,75 Toán: 3,25 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113563_Phạm Hoàng Nam
+
+Văn: 6 Toán: 3,5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113564_Phạm Văn Nam
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113565_Phan Thành Nam
+
+Văn: 2,75 Toán: 0,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113566_Sơn Phương Nam
+
+Văn: 6,25 Toán: 5,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113567_Trần Kỳ Nam
+
+Văn: 7,25 Toán: 8,75 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113568_Võ Quốc Nam
+
+Văn: 1,5 Toán: 2,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113569_Lê Nguyễn Thanh Nga
+
+Văn: 2,75 Toán: 2 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113570_Cao Thảo Ngân
+
+Văn: 6,75 Toán: 3,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113571_Đặng Bích Ngân
+
+Văn: 6,75 Toán: 4,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113572_Huỳnh Ngọc Kim Ngân
+
+Văn: 6,5 Toán: 2,75 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113573_Lương Thị Mỹ Ngân
+
+Văn: 5,5 Toán: 5,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113574_Nguyễn Hoàng Thu Ngân
+
+Văn: 8,5 Toán: 8,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113575_Nguyễn Kim Ngân
+
+Văn: 6,75 Toán: 3,5 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113576_Nguyễn Kim Ngân
+
+Văn: 7,25 Toán: 8 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113577_Nguyễn Ngọc Kim Ngân
+
+Văn: 6,25 Toán: 7,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113578_Nguyễn Ngọc Kim Ngân
+
+Văn: 8,25 Toán: 6,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113579_Nguyễn Phương Ngân
+
+Văn: 7,5 Toán: 7,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113580_Nguyễn Song Ngân
+
+Văn: 7,5 Toán: 7 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113581_Nguyễn Thanh Ngọc Ngân
+
+Văn: 7,25 Toán: 4,75 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113582_Nguyễn Thanh Tuyết Ngân
+
+Văn: 7 Toán: 5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113583_Nguyễn Thảo Ngân
+
+Văn: 8,25 Toán: 8,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113584_Nguyễn Thị Kim Ngân
+
+Văn: 8 Toán: 5,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113585_Nguyễn Võ Kim Ngân
+
+Văn: 7,5 Toán: 6 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113586_Phạm Ngọc Thanh Ngân
+
+Văn: 8 Toán: 4,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113587_Phạm Ngọc Thanh Ngân
+
+Văn: 8 Toán: 4 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113588_Thái Thu Ngân
+
+Văn: 7,75 Toán: 5,25 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113589_Trần Nguyễn Kiều Ngân
+
+Văn: 8,25 Toán: 8,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113590_Trang Tuyết Ngân
+
+Văn: 6,25 Toán: 3,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113591_Võ Kim Ngân
+
+Văn: 8,75 Toán: 5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113592_Võ Thanh Ngân
+
+Văn: 7,75 Toán: 6,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113593_Huỳnh Gia Nghi
+
+Văn: 8 Toán: 6,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113594_Huỳnh Ngọc Thoại Nghi
+
+Văn: 7,5 Toán: 2,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113595_Lê Gia Nghi
+
+Văn: 8,5 Toán: 6,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113596_Lê Hoàng Bảo Nghi
+
+Văn: 5,5 Toán: 5,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113597_Lê Học Vũ Nghi
+
+Văn: 8 Toán: 5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113598_Lê Phan Phương Nghi
+
+Văn: 8,25 Toán: 7 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113599_Nguyễn Đặng Gia Nghi
+
+Văn: 4,5 Toán: 3,5 Ngoại Ngữ: 1,25 Môn Chuyên: 0
+
+113600_Nguyễn Diệp Phương Nghi
+
+Văn: 5,75 Toán: 3,5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113601_Nguyễn Hồ Mộng Nghi
+
+Văn: 6 Toán: 0,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113602_Nguyễn Ngọc Uyên Nghi
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113603_Nguyễn Phương Nghi
+
+Văn: 8,5 Toán: 7,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113604_Nguyễn Thanh Nghi
+
+Văn: 6,75 Toán: 3,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113605_Nguyễn Trần Bảo Nghi
+
+Văn: 8,25 Toán: 5,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113606_Trần Lâm Bảo Nghi
+
+Văn: 7,5 Toán: 6,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113607_Trương Huệ Nghi
+
+Văn: 8,75 Toán: 7,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113608_Ngô Thuận Nghĩa
+
+Văn: 6,5 Toán: 1,75 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113609_Nguyễn Lư Đức Nghĩa
+
+Văn: 4,75 Toán: 4,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113610_Nguyễn Phước Nghĩa
+
+Văn: 7 Toán: 3,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113611_Võ Đức Nghĩa
+
+Văn: 4 Toán: 2,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113612_Đặng Kiều Như Ngọc
+
+Văn: 5 Toán: 1,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113613_Đinh Khánh Ngọc
+
+Văn: 6 Toán: 2,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113614_Huỳnh Ái Ngọc
+
+Văn: 6,5 Toán: 1,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113615_Huỳnh Nguyễn Như Ngọc
+
+Văn: 6,75 Toán: 3 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113616_Lê Anh Bảo Ngọc
+
+Văn: 7,75 Toán: 8,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113617_Lê Bảo Ngọc
+
+Văn: 7,25 Toán: 3,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113618_Lý Trần Khánh Ngọc
+
+Văn: 8,5 Toán: 2,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113619_Mạc Hoa Kim Ngọc
+
+Văn: 8 Toán: 6,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113620_Nguyễn Bảo Ngọc
+
+Văn: 7,75 Toán: 4,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113621_Nguyễn Bảo Ngọc
+
+Văn: 6,25 Toán: 3,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113622_Nguyễn Hoài Bảo Ngọc
+
+Văn: 7 Toán: 5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113623_Nguyễn Hồng Ngọc
+
+Văn: 8,25 Toán: 9 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113624_Nguyễn Huỳnh Thiên Ngọc
+
+Văn: 8,75 Toán: 8 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113625_Nguyễn Phạm Minh Ngọc
+
+Văn: 7,75 Toán: 8,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113626_Nguyễn Phạm Thanh Ngọc
+
+Văn: 8,5 Toán: 7,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113627_Nguyễn Thị Bích Ngọc
+
+Văn: 6,25 Toán: 4,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113628_Nguyễn Vũ Thiên Ngọc
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113629_Nguyễn Vưu Thanh Ngọc
+
+Văn: 7,75 Toán: 6,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113630_Phạm Đặng Kim Ngọc
+
+Văn: 6,5 Toán: 6,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113631_Phạm Hồng Ngọc
+
+Văn: 6 Toán: 2 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113632_Phạm Khánh Ngọc
+
+Văn: 8 Toán: 7 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113633_Phạm Minh Ngọc
+
+Văn: 6 Toán: 4,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113634_Phạm Nguyễn Khánh Ngọc
+
+Văn: 7 Toán: 5,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113635_Thân Bảo Ngọc
+
+Văn: 7,75 Toán: 6,25 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113636_Thi Trần Khánh Ngọc
+
+Văn: 8 Toán: 5,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113637_Tô Tú Ngọc
+
+Văn: 6,5 Toán: 5,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113638_Trần Bảo Ngọc
+
+Văn: 7 Toán: 3,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113639_Trần Bội Ngọc
+
+Văn: 5,5 Toán: 2 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113640_Trần Cổ Bảo Ngọc
+
+Văn: 7,5 Toán: 3 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113641_Trần Đức Hồng Ngọc
+
+Văn: 7,25 Toán: 3,25 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113642_Trần Gia Mỹ Ngọc
+
+Văn: 7,75 Toán: 8 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113643_Trần Huỳnh Yến Ngọc
+
+Văn: 8,5 Toán: 5,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113644_Trần Nguyễn Khánh Ngọc
+
+Văn: 5,5 Toán: 5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113645_Trần Thanh Bảo Ngọc
+
+Văn: 6,25 Toán: 6,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113646_Trần Thanh Như Ngọc
+
+Văn: 8,25 Toán: 3 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113647_Trần Thị Mỹ Ngọc
+
+Văn: 8,25 Toán: 7,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113648_Trần Thị Thanh Ngọc
+
+Văn: 6 Toán: 2,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113649_Võ Huỳnh Kim Ngọc
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113650_Võ Khánh Ngọc
+
+Văn: 5,25 Toán: 5,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113651_Đào Quốc Nguyên
+
+Văn: 5,75 Toán: 5,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113652_Đỗ Trần Thanh Nguyên
+
+Văn: 5,25 Toán: 3,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113653_Lê Bảo Nguyên
+
+Văn: 2 Toán: 4 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113654_Lê Nguyễn Ánh Nguyên
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113655_Lê Phạm Minh Nguyên
+
+Văn: 7,25 Toán: 6,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113656_Nguyễn Đỗ Phương Nguyên
+
+Văn: 5 Toán: 1,75 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113657_Nguyễn Phan Phương Nguyên
+
+Văn: 6,25 Toán: 5,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113658_Nguyễn Thảo Nguyên
+
+Văn: 8 Toán: 4,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113659_Nguyễn Trần Phương Nguyên
+
+Văn: 7,75 Toán: 4,5 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113660_Nguyễn Võ Hồng Nguyên
+
+Văn: 7,5 Toán: 7,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113661_Nguyễn Võ Thảo Nguyên
+
+Văn: 7,5 Toán: 4,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113662_Phạm Vũ Thảo Nguyên
+
+Văn: 6,75 Toán: 6,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113663_Thái Thanh Nguyên
+
+Văn: 7 Toán: 3,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113664_Trần Khánh Nguyên
+
+Văn: 6,25 Toán: 7 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113665_Trần Khôi Nguyên
+
+Văn: 6,25 Toán: 4,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113666_Vĩnh Bảo Nguyên
+
+Văn: 7,75 Toán: 8,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113667_Vưu Vạn Nguyên
+
+Văn: Toán: Ngoại Ngữ: Môn Chuyên: 
+
+113668_Võ Phương Nguyễn
+
+Văn: 7,25 Toán: 2,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113669_Lê Thanh Nhàn
+
+Văn: 6,75 Toán: 4,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113670_Nguyễn Võ Thanh Nhàn
+
+Văn: 7 Toán: 1,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113671_Huỳnh Thiện Nhân
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113672_Lương Ngọc Thiện Nhân
+
+Văn: 7 Toán: 5,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113673_Nguyễn Thành Nhân
+
+Văn: 5,5 Toán: 6 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113674_Nguyễn Thành Nhân
+
+Văn: 3,75 Toán: 5,25 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113675_Nguyễn Trọng Nhân
+
+Văn: 4,5 Toán: 2,5 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113676_Phan Minh Thượng Nhân
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113677_Trần Trọng Nhân
+
+Văn: 8,5 Toán: 7 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113678_Trần Văn Nhân
+
+Văn: 6,75 Toán: 8 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113679_Vương Thành Nhân
+
+Văn: 6,75 Toán: 5,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113680_Đỗ Huỳnh Minh Nhật
+
+Văn: 4,25 Toán: 5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113681_Liêng Minh Nhật
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113682_Nguyễn Minh Nhật
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113683_Phan Minh Nhật
+
+Văn: 6,75 Toán: 4 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113684_Chiêm Ngọc Uyển Nhi
+
+Văn: 5,5 Toán: 5 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113685_Đào Xuân Nhi
+
+Văn: 5,25 Toán: 4,5 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113686_Điền Thị Hồng Nhi
+
+Văn: 5,25 Toán: 4 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113687_Dương Triệu Yến Nhi
+
+Văn: 8,5 Toán: 5,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113688_Dương Vân Nhi
+
+Văn: 7,5 Toán: 7 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113689_Hồ Ngọc Bảo Nhi
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113690_Hoàng Thanh Nhi
+
+Văn: 7,5 Toán: 9 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113691_Huỳnh Tú Nhi
+
+Văn: 6,25 Toán: 1,5 Ngoại Ngữ: 1,75 Môn Chuyên: 0
+
+113692_Huỳnh Xuân Nhi
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113693_Lâm Yến Nhi
+
+Văn: 5,75 Toán: 1,75 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113694_Lê Đỗ Ngọc Nhi
+
+Văn: 7 Toán: 5,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113695_Lê Huỳnh Mẫn Nhi
+
+Văn: 6 Toán: 7,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113696_Lê Thị Tú Nhi
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113697_Lê Yến Nhi
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113698_Mã Bảo Nhi
+
+Văn: 7,75 Toán: 8 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113699_Nguyễn Cao Phương Nhi
+
+Văn: 7,75 Toán: 7,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113700_Nguyễn Lê Yến Nhi
+
+Văn: 5,25 Toán: 4,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113701_Nguyễn Mạnh Phương Nhi
+
+Văn: 7,75 Toán: 5,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113702_Nguyễn Ngọc Ánh Nhi
+
+Văn: 4,5 Toán: 3 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113703_Nguyễn Ngọc Yến Nhi
+
+Văn: 8,5 Toán: 6,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113704_Nguyễn Ngọc Yến Nhi
+
+Văn: 8,25 Toán: 7,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113705_Nhan Diệp Yến Nhi
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113706_Phạm Hoàng Yến Nhi
+
+Văn: 5,25 Toán: 1 Ngoại Ngữ: 2,25 Môn Chuyên: 0
+
+113707_Phạm Ngọc Nhi
+
+Văn: 6,5 Toán: 5 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113708_Phạm Thị Yến Nhi
+
+Văn: 4,5 Toán: 5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113709_Phạm Tuyết Nhi
+
+Văn: 5,75 Toán: 4,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113710_Trần Lê Thảo Nhi
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113711_Trần Yến Nhi
+
+Văn: 6,5 Toán: 4,5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113712_Trần Ngọc Tố Nhiên
+
+Văn: 6,75 Toán: 6,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113713_Hồ Kiều Nhơn
+
+Văn: 6,75 Toán: 3,75 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113714_Đinh Hà Phương Như
+
+Văn: 6 Toán: 1,5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113715_Đỗ Quỳnh Như
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113716_Hà Kim Như
+
+Văn: 7 Toán: 3,25 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113717_Lâm Thảo Như
+
+Văn: 1,75 Toán: 0,5 Ngoại Ngữ: 1,5 Môn Chuyên: 0
+
+113718_Lê Lâm Quỳnh Như
+
+Văn: 5,5 Toán: 2 Ngoại Ngữ: 1,75 Môn Chuyên: 0
+
+113719_Lưu Gia Như
+
+Văn: 8,75 Toán: 7 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113720_Nguyễn Bảo Như
+
+Văn: 7,25 Toán: 5,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113721_Nguyễn Hà Quỳnh Như
+
+Văn: 6,5 Toán: 3 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113722_Nguyễn Ngọc Bảo Như
+
+Văn: 6,25 Toán: 4 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113723_Nguyễn Ngọc Quỳnh Như
+
+Văn: 6,75 Toán: 2 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113724_Nguyễn Ngọc Quỳnh Như
+
+Văn: 7,75 Toán: 6,25 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113725_Nguyễn Phương Khánh Như
+
+Văn: 8 Toán: 5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113726_Nguyễn Thị Tố Như
+
+Văn: 5,25 Toán: 4,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113727_Nguyễn Trần Tâm Như
+
+Văn: 8 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113728_Ninh Tâm Như
+
+Văn: 6,75 Toán: 4 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113729_Phạm Hồ Ánh Như
+
+Văn: 7,75 Toán: 5,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113730_Phan Mỹ Như
+
+Văn: 7,5 Toán: 6,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113731_Phan Quỳnh Như
+
+Văn: 5,75 Toán: 3,25 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113732_Trác Thái Như
+
+Văn: 8,75 Toán: 6,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113733_Trần Thị Thanh Như
+
+Văn: 7 Toán: 4,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113734_Trương Phạm Tú Như
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113735_Võ Lê Quỳnh Như
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113736_Võ Ngọc Bảo Như
+
+Văn: 6,75 Toán: 4 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113737_Võ Ngọc Quỳnh Như
+
+Văn: 7,75 Toán: 4,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113738_Vương Ái Như
+
+Văn: 6 Toán: 4 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113739_Lâm Quỳnh Nhung
+
+Văn: 7,5 Toán: 5,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113740_Nguyễn Phương Nhung
+
+Văn: 6,75 Toán: 1,75 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113741_Trần Kim Hồng Nhung
+
+Văn: 7,5 Toán: 5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113742_Kha Minh Nhựt
+
+Văn: 5,25 Toán: 1,25 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113743_Lê Minh Nhựt
+
+Văn: 5,25 Toán: 2,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113744_Nguyễn Hoàng Minh Nhựt
+
+Văn: 6,5 Toán: 2,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113745_Phương Ngọc Oanh
+
+Văn: 7,5 Toán: 3,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113746_Chung Văn Phát
+
+Văn: 6,75 Toán: 3,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113747_Đỗ Tấn Phát
+
+Văn: 6,25 Toán: 4,5 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113748_Hoàng Gia Phát
+
+Văn: 6,25 Toán: 2,75 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113749_Lâm Bình Phát
+
+Văn: 6,25 Toán: 3,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113750_Lâm Tấn Phát
+
+Văn: 3 Toán: 2,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113751_Lê Đức Phát
+
+Văn: 6,75 Toán: 5,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113752_Mạch Trí Phát
+
+Văn: 6,5 Toán: 7,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113753_Ngô Thành Phát
+
+Văn: 6,25 Toán: 6,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113754_Nguyễn Đặng Vĩnh Phát
+
+Văn: 5,75 Toán: 7 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113755_Nguyễn Gia Phát
+
+Văn: 5,75 Toán: 5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113756_Nguyễn Hoàng Phát
+
+Văn: 6 Toán: 5,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113757_Nguyễn Hoàng Kim Phát
+
+Văn: 6,75 Toán: 5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113758_Nguyễn Lê Minh Phát
+
+Văn: 4,75 Toán: 3,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113759_Nguyễn Lê Tiến Phát
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113760_Nguyễn Thành Phát
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113761_Nguyễn Thành Phát
+
+Văn: 6,5 Toán: 5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113762_Nguyễn Trọng Phát
+
+Văn: 6,5 Toán: 6,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113763_Nguyễn Văn Phát
+
+Văn: 6,75 Toán: 5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113764_Phạm Thành Phát
+
+Văn: 8,25 Toán: 9 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113765_Thái Tiến Phát
+
+Văn: 8 Toán: 6,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113766_Trần Đức Phát
+
+Văn: 7,25 Toán: 5,5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113767_Trần Gia Phát
+
+Văn: 7,5 Toán: 7,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113768_Trần Tấn Phát
+
+Văn: 8,25 Toán: 6,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113769_Trần Xuân Gia Phát
+
+Văn: 6 Toán: 4 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113770_Trương Hoàng Phát
+
+Văn: 5,75 Toán: 2,25 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113771_Trương Thành Phát
+
+Văn: 7,25 Toán: 5,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113772_Võ Quí Phát
+
+Văn: 3,75 Toán: 4 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113773_Vũ Nguyễn Đức Phát
+
+Văn: 7,25 Toán: 7,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113774_Vương Tiến Phát
+
+Văn: 6,25 Toán: 8,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113775_Vưu Chung Tấn Phát
+
+Văn: 7 Toán: 6,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113776_Lâm Vĩnh Phi
+
+Văn: 4,25 Toán: 1,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113777_Lâm Vương Phi
+
+Văn: 4,25 Toán: 0,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113778_Nguyễn Nhật Phi
+
+Văn: 6,75 Toán: 4,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113779_Nguyễn Phạm Hồng Phi
+
+Văn: 4,5 Toán: 2 Ngoại Ngữ: 2 Môn Chuyên: 0
+
+113780_Trương Phi
+
+Văn: 5,75 Toán: 3,5 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113781_Chung Vĩnh Phong
+
+Văn: 5,75 Toán: 5,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113782_Diệp Thanh Phong
+
+Văn: 6,75 Toán: 8,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113783_Giang Cẩm Phong
+
+Văn: 6 Toán: 6 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113784_Lê Thanh Phong
+
+Văn: 5,75 Toán: 4,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113785_Nguyễn Lê Hoài Phong
+
+Văn: 6,75 Toán: 5,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113786_Nguyễn Nam Phong
+
+Văn: 7,25 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113787_Nguyễn Quốc Phong
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113788_Nguyễn Truy Phong
+
+Văn: 7 Toán: 7,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113789_Phạm Thanh Phong
+
+Văn: 6,25 Toán: 7,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113790_Võ Thanh Phong
+
+Văn: 6 Toán: 2 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113791_Bùi Gia Phú
+
+Văn: 7,25 Toán: 6,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113792_Đặng Tài Phú
+
+Văn: 6,25 Toán: 2,75 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113793_Hồ Vĩnh Phú
+
+Văn: 7,5 Toán: 7,25 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113794_Hoàng Trần Trọng Phú
+
+Văn: 5 Toán: 5,5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113795_Huỳnh Anh Phú
+
+Văn: 7,25 Toán: 4 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113796_Huỳnh Ngọc Thiên Phú
+
+Văn: 5,25 Toán: 5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113797_Lâm Gia Phú
+
+Văn: 7 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113798_Lê Sĩ Phú
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113799_Lôi Đại Phú
+
+Văn: 6,5 Toán: 8,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113800_Nguyễn An Phú
+
+Văn: 5,75 Toán: 7 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113801_Nguyễn Xuân Phú
+
+Văn: 7,5 Toán: 8,25 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113802_Phan Gia Phú
+
+Văn: 7,25 Toán: 6,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113803_Trần Lê Hoàng Phú
+
+Văn: 6,75 Toán: 2,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113804_Trần Ngọc Phú
+
+Văn: 5,5 Toán: 5,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113805_Đặng Thiên Phúc
+
+Văn: 7 Toán: 2,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113806_Dương Hồng Phúc
+
+Văn: 6,75 Toán: 8,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113807_Lê Đình Phúc
+
+Văn: 5,25 Toán: 2 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113808_Lê Hoàng Bảo Phúc
+
+Văn: 7 Toán: 8 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113809_Lê Huệ Phúc
+
+Văn: 6,75 Toán: 4 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113810_Lý Gia Phúc
+
+Văn: 6 Toán: 6,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113811_Lý Ngọc Hồng Phúc
+
+Văn: 6,25 Toán: 3,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113812_Nguyễn Hoàng Phúc
+
+Văn: 6,25 Toán: 2,5 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113813_Nguyễn Hoàng Phúc
+
+Văn: 6 Toán: 5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113814_Nguyễn Hoàng Phúc
+
+Văn: 6 Toán: 4,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113815_Nguyễn Hoàng Phúc
+
+Văn: 6,25 Toán: 3,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113816_Nguyễn Hoàng Như Phúc
+
+Văn: 8 Toán: 7,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113817_Nguyễn Lê Diễm Phúc
+
+Văn: 7,5 Toán: 7 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113818_Nguyễn Ngọc Phúc
+
+Văn: 4,75 Toán: 2,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113819_Nguyễn Phùng Hoàng Phúc
+
+Văn: 6,25 Toán: 1,5 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113820_Nguyễn Tiến Phúc
+
+Văn: 7 Toán: 5,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113821_Nguyễn Trương Thanh Phúc
+
+Văn: 6,25 Toán: 6 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113822_Phạm Lê Hoàng Phúc
+
+Văn: 8,5 Toán: 6,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113823_Phan Hoàng Phúc
+
+Văn: 7 Toán: 4,5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113824_Trần Gia Phúc
+
+Văn: 7,75 Toán: 8,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113825_Trần Xuân Phúc
+
+Văn: 7 Toán: 7,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113826_Võ La Hoàng Phúc
+
+Văn: 5,5 Toán: 7,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113827_Huỳnh Ngọc Kim Phụng
+
+Văn: 8,25 Toán: 4,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113828_Lý Kim Phụng
+
+Văn: 4,75 Toán: 4,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113829_Mai Huỳnh Kim Phụng
+
+Văn: 7 Toán: 3,75 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113830_Nguyễn Như Ngọc Phụng
+
+Văn: 6,75 Toán: 3,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113831_Tăng Mỹ Phụng
+
+Văn: 7 Toán: 5,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113832_Tiêu Nguyễn Anh Phụng
+
+Văn: 7,5 Toán: 3,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113833_Trần Nguyễn Ngọc Phụng
+
+Văn: 5,75 Toán: 6,25 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113834_Trương Yến Phụng
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113835_Vương Kim Phụng
+
+Văn: 6,25 Toán: 2 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113836_Nguyễn Đức Phước
+
+Văn: 4,5 Toán: 2,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113837_Nguyễn Kim Phước
+
+Văn: 6,75 Toán: 2,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113838_Đặng Huệ Phương
+
+Văn: 6,25 Toán: 4,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113839_Giang Mai Phương
+
+Văn: 4,5 Toán: 2,75 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113840_Hồ Hoàn Khánh Phương
+
+Văn: 5 Toán: 4 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113841_Lê Hà Phương
+
+Văn: 6,25 Toán: 8,5 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113842_Lê Huỳnh Lan Phương
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113843_Liên Yểm Phương
+
+Văn: 7,75 Toán: 3,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113844_Lương Nhã Phương
+
+Văn: 7 Toán: 1,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113845_Ngô Mỹ Phương
+
+Văn: 6,25 Toán: 1,5 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113846_Nguyễn Hoàng Phương
+
+Văn: 3,5 Toán: 1,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113847_Nguyễn Nam Phương
+
+Văn: 6,75 Toán: 9 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113848_Nguyễn Nhật Phương
+
+Văn: 5 Toán: 2,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113849_Phạm Minh Phương
+
+Văn: 7,25 Toán: 7,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113850_Thạch Nguyễn Diễm Phương
+
+Văn: 7,75 Toán: 4 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113851_Tô Huỳnh Thanh Phương
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113852_Trần Ngọc Trúc Phương
+
+Văn: 6,75 Toán: 5,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113853_Trương Ngọc Phương
+
+Văn: 6,25 Toán: 4 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113854_Bùi Minh Quân
+
+Văn: 6,25 Toán: 3,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113855_Đặng Nguyễn Anh Quân
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113856_Đoàn Minh Quân
+
+Văn: 6 Toán: 6,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113857_Hồng Đặng Quân
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113858_Hứa Anh Quân
+
+Văn: 5,25 Toán: 2,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113859_Huỳnh Phạm Minh Quân
+
+Văn: 6,25 Toán: 7,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113860_Lại Hoàng Quân
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113861_Lê Hoàng Minh Quân
+
+Văn: 6,75 Toán: 7 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113862_Lê Trung Quân
+
+Văn: 6,75 Toán: 6,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113863_Nguyễn Anh Quân
+
+Văn: 6,75 Toán: 6 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113864_Nguyễn Đình Minh Quân
+
+Văn: 6,75 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113865_Nguyễn Hải Quân
+
+Văn: 5,5 Toán: 1 Ngoại Ngữ: 2 Môn Chuyên: 0
+
+113866_Nguyễn Minh Quân
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113867_Nguyễn Minh Quân
+
+Văn: 7 Toán: 5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113868_Phạm Hoàng Quân
+
+Văn: 7,75 Toán: 4,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113869_Phạm Minh Quân
+
+Văn: 6,5 Toán: 1 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113870_Trần Hoàng Quân
+
+Văn: 8 Toán: 3 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113871_Trần Minh Quân
+
+Văn: 7,75 Toán: 7,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113872_Trần Võ Minh Quân
+
+Văn: 6,75 Toán: 1,75 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113873_Võ Thanh Quân
+
+Văn: 7,25 Toán: 4,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113874_Vũ Duy Hoàng Quân
+
+Văn: 5 Toán: 4,75 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113875_Đặng Lê Quang
+
+Văn: 6,25 Toán: 5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113876_Đặng Minh Quang
+
+Văn: 6,75 Toán: 5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113877_Đoàn Minh Quang
+
+Văn: 5 Toán: 4,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113878_Kha Nhật Quang
+
+Văn: 6,5 Toán: 2,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113879_Nguyễn Đức Quang
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113880_Nguyễn Thái Quang
+
+Văn: 6 Toán: 2,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113881_Nguyễn Trần Vinh Quang
+
+Văn: 6 Toán: 6,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113882_Nguyễn Vinh Quang
+
+Văn: 6,25 Toán: 5,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113883_Lương Thị Hồng Quế
+
+Văn: 4,5 Toán: 5,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113884_Bùi Kiến Quốc
+
+Văn: 5 Toán: 2,25 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113885_Dương Chấn Quốc
+
+Văn: 5,5 Toán: 8 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113886_Trần Minh Quốc
+
+Văn: 5,75 Toán: 3,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113887_Hồ Hồng Quý
+
+Văn: 2,25 Toán: 2 Ngoại Ngữ: 2,25 Môn Chuyên: 0
+
+113888_Lê Thái Quý
+
+Văn: 6,25 Toán: 4,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113889_Nguyễn Ngô Phú Quý
+
+Văn: 5,75 Toán: 7,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113890_Trần Song Quý
+
+Văn: 5,5 Toán: 8,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+113891_Trần Trọng Qúy
+
+Văn: 6,25 Toán: 7,75 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+113892_Đồng Thị Lệ Quyên
+
+Văn: 6 Toán: 3,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113893_Nguyễn Vũ Bảo Quyên
+
+Văn: 8 Toán: 4,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113894_Phan Ái Quyên
+
+Văn: 5,75 Toán: 5 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113895_Võ Thái Quyên
+
+Văn: 7,5 Toán: 4,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113896_Hồ Lan Quyền
+
+Văn: 5,75 Toán: 1,75 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113897_Nguyễn Huỳnh Xuân Quyền
+
+Văn: 6 Toán: 6,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113898_Nguyễn Quang Quyền
+
+Văn: 7,5 Toán: 8 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113899_Tăng Khánh Quyền
+
+Văn: 3,25 Toán: 3,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113900_Hứa Trần Thúy Quỳnh
+
+Văn: 7 Toán: 4,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113901_Lý Gia Quỳnh
+
+Văn: 8,5 Toán: 7,25 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113902_Ngô Lê Ái Quỳnh
+
+Văn: 5,75 Toán: 4,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113903_Ngô Phương Quỳnh
+
+Văn: 7,5 Toán: 5,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113904_Nguyễn Đông Uyên Quỳnh
+
+Văn: 8,5 Toán: 5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113905_Nguyễn Ngọc Quỳnh
+
+Văn: 8,25 Toán: 8 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113906_Nguyễn Ngọc Vân Quỳnh
+
+Văn: 7,25 Toán: 4,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113907_Trần Ngọc Diễm Quỳnh
+
+Văn: 7,5 Toán: 4,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113908_Trần Nguyễn Vân Quỳnh
+
+Văn: 7,75 Toán: 8,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113909_Trần Như Quỳnh
+
+Văn: 8 Toán: 5,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113910_Trịnh Tú Quỳnh
+
+Văn: 6,5 Toán: 6,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113911_Nguyễn Huỳnh Khiết San
+
+Văn: 5,75 Toán: 7,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113912_Đỗ Thanh Sang
+
+Văn: 6,75 Toán: 7 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113913_Huỳnh Minh Sang
+
+Văn: 5,5 Toán: 4,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113914_Nguyễn Hoàng Sang
+
+Văn: 7 Toán: 3,5 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113915_Nguyễn Lê Hoàng Sang
+
+Văn: 7,25 Toán: 4,75 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113916_Nguyễn Ngọc Tuyết Sang
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113917_Nguyễn Thành Sang
+
+Văn: 6,75 Toán: 2,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113918_Quách Tú Sang
+
+Văn: Toán: Ngoại Ngữ: Môn Chuyên: 
+
+113919_Nguyễn Tấn Sĩ
+
+Văn: 8 Toán: 6,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113920_Đỗ Cao Sơn
+
+Văn: 7 Toán: 8,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113921_Đỗ Hoàng Sơn
+
+Văn: 7,25 Toán: 3,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113922_Nguyễn Hoàng Sơn
+
+Văn: 7,25 Toán: 7 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113923_Nguyễn Hồng Hải Sơn
+
+Văn: 6,75 Toán: 7,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113924_Nguyễn Minh Hoàng Sơn
+
+Văn: 7 Toán: 8,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113925_Trang Tuấn Sơn
+
+Văn: 7,5 Toán: 6 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113926_Hồ Ngọc Tú Sương
+
+Văn: 6,75 Toán: 7,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+113927_Bùi Tiến Tài
+
+Văn: 7,25 Toán: 9 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113928_Lâm Phát Tài
+
+Văn: 6,75 Toán: 3,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113929_Nguyễn Tấn Tài
+
+Văn: 7,25 Toán: 7 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113930_Nguyễn Thành Tài
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113931_Nguyễn Tự Phước Tài
+
+Văn: 6,5 Toán: 6,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113932_Phạm Tấn Tài
+
+Văn: 3,25 Toán: 2 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113933_Quách Chí Tài
+
+Văn: 5 Toán: 2,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113934_Tăng Phước Tài
+
+Văn: 7 Toán: 5,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+113935_Nguyễn Đỗ Phúc Tâm
+
+Văn: 6,75 Toán: 6,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113936_Nguyễn Huỳnh Chấn Tâm
+
+Văn: 7,25 Toán: 2,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113937_Trần Lê Thanh Tâm
+
+Văn: 7,5 Toán: 5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113938_Lê Minh Tân
+
+Văn: 5 Toán: 2 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113939_Lư Đình Tân
+
+Văn: 5,75 Toán: 3,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113940_Nguyễn Chí Tân
+
+Văn: 5,5 Toán: 3,5 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113941_Phùng Đoàn Nhật Tân
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+113942_Quách Minh Tân
+
+Văn: 6 Toán: 5,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113943_Ngô Trọng Tấn
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113944_Nguyễn Trọng Tấn
+
+Văn: 5 Toán: 2,5 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113945_Nguyễn Hồng Phương Tây
+
+Văn: 6,5 Toán: 6,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113946_Lê Phúc Thạch
+
+Văn: 5,75 Toán: 3,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113947_Đặng Nguyễn Viết Thái
+
+Văn: 8 Toán: 8 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113948_Hà Quang Thái
+
+Văn: 5,75 Toán: 5,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113949_Nguyễn Lâm Hoàng Thái
+
+Văn: 6,25 Toán: 8 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113950_Nguyễn Phi Quang Thái
+
+Văn: 4,5 Toán: 4,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113951_Tất Vĩnh Thái
+
+Văn: 5,75 Toán: 4 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113952_Phạm Nguyễn Hồng Thắm
+
+Văn: 4,25 Toán: 1,5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113953_Nguyễn Hữu Thân
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113954_Bùi Cao Thắng
+
+Văn: 8 Toán: 7,25 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113955_Giang Trịnh Quốc Thắng
+
+Văn: 5,25 Toán: 4 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113956_Lý Quốc Thắng
+
+Văn: 5,75 Toán: 3,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113957_Nguyễn Lê Minh Thắng
+
+Văn: 2 Toán: 1,5 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113958_Nguyễn Quốc Thắng
+
+Văn: 4,75 Toán: 4 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+113959_Phan Văn Thắng
+
+Văn: 6,25 Toán: 6,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+113960_Chung Võ Thiện Thanh
+
+Văn: 6,25 Toán: 3,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+113961_Đặng Nguyễn Kim Thanh
+
+Văn: 6,75 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+113962_Đỗ Quang Thanh
+
+Văn: 6,25 Toán: 3,5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+113963_Huỳnh Ngọc Thanh
+
+Văn: 6,5 Toán: 3,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113964_Lý Mỹ Thanh
+
+Văn: 7 Toán: 4,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+113965_Nguyễn Hoàng Vân Thanh
+
+Văn: 6,75 Toán: 6 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113966_Nguyễn Thị Phương Thanh
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+113967_Nguyễn Trần Phương Thanh
+
+Văn: 6,25 Toán: 4 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113968_Nguyễn Trần Tuấn Thanh
+
+Văn: 8,25 Toán: 4,25 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113969_Thái Mỹ Thanh
+
+Văn: 7 Toán: 5,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+113970_Trần Ngọc Thiên Thanh
+
+Văn: 8 Toán: 9 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113971_Trần Quốc Thanh
+
+Văn: 5,25 Toán: 1,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+113972_Võ Ngọc Kim Thanh
+
+Văn: 6,25 Toán: 3 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113973_Diệp Kim Thành
+
+Văn: 4,25 Toán: 2,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+113974_Lê Công Thành
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113975_Lê Minh Thành
+
+Văn: 7 Toán: 3,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113976_Liêu Tiến Thành
+
+Văn: 7,75 Toán: 4,75 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113977_Ngô Hoàng Chí Thành
+
+Văn: 5,75 Toán: 5,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+113978_Nguyễn Lý Hoàng Thành
+
+Văn: 6,75 Toán: 4,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+113979_Nguyễn Nhơn Tấn Thành
+
+Văn: 4,25 Toán: 1,25 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113980_Nguyễn Tấn Thành
+
+Văn: 6,25 Toán: 1,5 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+113981_Nguyễn Tấn Thành
+
+Văn: 5 Toán: 2 Ngoại Ngữ: 2,25 Môn Chuyên: 0
+
+113982_Nguyễn Thái Thành
+
+Văn: 6,25 Toán: 4,25 Ngoại Ngữ: 1,75 Môn Chuyên: 0
+
+113983_Trần Đức Thành
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+113984_Trần Hoàng Thành
+
+Văn: 6,75 Toán: 3,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+113985_Từ Kim Thành
+
+Văn: 6,25 Toán: 4,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+113986_Võ Đức Kim Thành
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113987_Lê Ngọc Minh Thảo
+
+Văn: 6 Toán: 3,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+113988_Lê Phương Uyên Thảo
+
+Văn: 6 Toán: 5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+113989_Nguyễn Hoàng Thanh Thảo
+
+Văn: 7,75 Toán: 9 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+113990_Nguyễn Hoàng Thanh Thảo
+
+Văn: 6,5 Toán: 4,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+113991_Nguyễn Hồng Thảo
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113992_Nguyễn Ngọc Thanh Thảo
+
+Văn: 5 Toán: 2,25 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+113993_Nguyễn Thanh Thảo
+
+Văn: 7,25 Toán: 2,25 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+113994_Nguyễn Thị Kim Thảo
+
+Văn: 3,25 Toán: 2 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+113995_Nguyễn Thị Phương Thảo
+
+Văn: 5,5 Toán: 6,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113996_Nguyễn Thị Xuân Thảo
+
+Văn: 6,5 Toán: 2,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+113997_Nguyễn Trần Minh Thảo
+
+Văn: 8 Toán: 8 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+113998_Tăng Ngọc Thanh Thảo
+
+Văn: 8,25 Toán: 6,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+113999_Tô Kim Thảo
+
+Văn: 8 Toán: 7,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114000_Trần Huỳnh Như Thảo
+
+Văn: 6,75 Toán: 1,75 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114001_Trần Mai Ngọc Thảo
+
+Văn: 6,5 Toán: 2,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114002_Trần Phương Thảo
+
+Văn: 7,25 Toán: 3,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114003_Trần Uyên Thảo
+
+Văn: 7,25 Toán: 8,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114004_Vũ Lê Minh Thảo
+
+Văn: 7,75 Toán: 6 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114005_Nguyễn Ngọc Minh Thi
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114006_Hồ Thiên Thiên
+
+Văn: 6,75 Toán: 6 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114007_Lê Nhật Thiên
+
+Văn: 6,5 Toán: 2,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114008_Nguyễn Đỗ Phúc Thiên
+
+Văn: 5,5 Toán: 3,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114009_Nguyễn Hoàng Hạo Thiên
+
+Văn: 5,5 Toán: 6,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114010_Nguyễn Thái Xuân Thiên
+
+Văn: 7,75 Toán: 5,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114011_Lê Nguyễn Phước Thiện
+
+Văn: 6,75 Toán: 5,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114012_Nguyễn Chí Thiện
+
+Văn: 6 Toán: 4,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114013_Nguyễn Đỗ Duy Thiện
+
+Văn: 4,25 Toán: 3 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114014_Nguyễn Hoàng Thiện
+
+Văn: 7,5 Toán: 6,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114015_Nguyễn Hoàng Thiện
+
+Văn: 6,5 Toán: 3,5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114016_Nguyễn Hoàng Thiện
+
+Văn: 7 Toán: 9 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114017_Nguyễn Kỳ Hoàng Thiện
+
+Văn: 7,5 Toán: 7,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114018_Thới Thái Thiện
+
+Văn: 7,25 Toán: 3,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114019_Trần Đức Thiện
+
+Văn: 7 Toán: 2,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114020_Trần Minh Thiện
+
+Văn: 7,25 Toán: 2,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114021_Trần Nhân Thiện
+
+Văn: 7,5 Toán: 7,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114022_Võ Thành Thiện
+
+Văn: 3,75 Toán: 2,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114023_Nguyễn Năng Thiều
+
+Văn: 7,5 Toán: 7,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114024_Doãn Quốc Thịnh
+
+Văn: 7,75 Toán: 7,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114025_Dương Gia Thịnh
+
+Văn: 7 Toán: 4,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114026_Lâm Đức Thịnh
+
+Văn: 5,75 Toán: 3,5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114027_Lê Gia Thịnh
+
+Văn: 6,5 Toán: 6 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114028_Lưu Phúc Thịnh
+
+Văn: 7 Toán: 6,5 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114029_Ngô Dương Phú Thịnh
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114030_Nguyễn Kiều Gia Thịnh
+
+Văn: 6 Toán: 6,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114031_Nguyễn Minh Thịnh
+
+Văn: 4,5 Toán: 4,25 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+114032_Nguyễn Phúc Thịnh
+
+Văn: 7 Toán: 8,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114033_Nguyễn Trường Thịnh
+
+Văn: 6 Toán: 3,25 Ngoại Ngữ: 2,25 Môn Chuyên: 0
+
+114034_Nguyễn Xuân Thịnh
+
+Văn: 7,5 Toán: 5,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114035_Phạm Đức Thịnh
+
+Văn: 3,25 Toán: 4,5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114036_Phạm Thái Thịnh
+
+Văn: 5 Toán: 2,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114037_Phan Phú Thịnh
+
+Văn: 5,25 Toán: 2,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114038_Quách Phú Thịnh
+
+Văn: 4,25 Toán: 3,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114039_Trần Lâm Tân Thịnh
+
+Văn: 5,75 Toán: 1,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114040_Trần Tấn Thịnh
+
+Văn: 5,5 Toán: 4 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114041_Trương Hưng Thịnh
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114042_Nguyễn Minh Thơ
+
+Văn: 7,25 Toán: 5,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114043_Phạm Lâm Hữu Thọ
+
+Văn: 4,75 Toán: 4,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114044_Huỳnh Diệu Thời
+
+Văn: 6,75 Toán: 4 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114045_Ngô Minh Thông
+
+Văn: 5,25 Toán: 2,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114046_Ngô Minh Thống
+
+Văn: 7,25 Toán: 8 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114047_Cao Hà Anh Thư
+
+Văn: 7,75 Toán: 4,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114048_Đỗ Nguyễn Anh Thư
+
+Văn: 4,25 Toán: 3 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114049_Đỗ Nguyễn Bảo Thư
+
+Văn: 6,75 Toán: 6 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114050_Đoàn Nguyễn Minh Thư
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114051_Hà Nguyễn Anh Thư
+
+Văn: 7,75 Toán: 6 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114052_Hồ Ngọc Anh Thư
+
+Văn: 7,5 Toán: 3,75 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114053_Hoàng Minh Thư
+
+Văn: 5,25 Toán: 0,75 Ngoại Ngữ: 1,75 Môn Chuyên: 0
+
+114054_Huỳnh Anh Thư
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114055_Huỳnh Ngọc Anh Thư
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114056_Huỳnh Ngọc Anh Thư
+
+Văn: 7,25 Toán: 4,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114057_Lê Anh Thư
+
+Văn: 7,25 Toán: 5,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114058_Lê Minh Thư
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114059_Lữ Trúc Thư
+
+Văn: 7,75 Toán: 4,5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114060_Lương Ngọc Minh Thư
+
+Văn: 7,5 Toán: 6,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114061_Lý Trác Thanh Thư
+
+Văn: 7,25 Toán: 4,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114062_Mai Lan Thư
+
+Văn: 7,25 Toán: 8 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114063_Ngô Minh Thư
+
+Văn: 7 Toán: 4,5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114064_Nguyễn Anh Thư
+
+Văn: 8,5 Toán: 9,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114065_Nguyễn Bùi Anh Thư
+
+Văn: 7 Toán: 4,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114066_Nguyễn Bùi Minh Thư
+
+Văn: 8,25 Toán: 6,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114067_Nguyễn Huỳnh Minh Thư
+
+Văn: 8 Toán: 4 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114068_Nguyễn Kim Thư
+
+Văn: 5,5 Toán: 2 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114069_Nguyễn Minh Thư
+
+Văn: 5,25 Toán: 4 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114070_Nguyễn Ngọc Anh Thư
+
+Văn: 5,5 Toán: 2,25 Ngoại Ngữ: 2,25 Môn Chuyên: 0
+
+114071_Nguyễn Ngọc Minh Thư
+
+Văn: 8,75 Toán: 4,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114072_Nguyễn Ngọc Minh Thư
+
+Văn: 8,5 Toán: 4,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114073_Nguyễn Võ Minh Thư
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114074_Nguyễn Xuân Anh Thư
+
+Văn: 5 Toán: 4 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114075_Phạm Hoàng Minh Thư
+
+Văn: 5,75 Toán: 4 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114076_Phạm Hoàng Minh Thư
+
+Văn: 7 Toán: 2,75 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114077_Phạm Minh Thư
+
+Văn: 7 Toán: 6,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114078_Phạm Ngọc Thiên Thư
+
+Văn: 8,25 Toán: 4,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114079_Phan Lê Anh Thư
+
+Văn: 7,75 Toán: 6,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114080_Phan Nguyễn Anh Thư
+
+Văn: 8,25 Toán: 8 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114081_Tạ Anh Thư
+
+Văn: 7,75 Toán: 5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114082_Trần Minh Thư
+
+Văn: 8,5 Toán: 6,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114083_Trần Ngọc Anh Thư
+
+Văn: 9 Toán: 3,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114084_Trần Ngọc Anh Thư
+
+Văn: 5,75 Toán: 2,25 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114085_Trần Ngọc Song Thư
+
+Văn: 8 Toán: 4,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114086_Trang Thị Anh Thư
+
+Văn: 5,75 Toán: 4,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114087_Trương Ngọc Anh Thư
+
+Văn: 8,75 Toán: 7,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114088_Võ Anh Thư
+
+Văn: 6 Toán: 2 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114089_Võ Ngọc Anh Thư
+
+Văn: 6 Toán: 3,5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114090_Huỳnh Tân Thuận
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114091_Kim Huỳnh Thuận
+
+Văn: 6,5 Toán: 5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114092_Lưu Gia Thuận
+
+Văn: 7 Toán: 4,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114093_Đỗ Nguyễn Thanh Thương
+
+Văn: 5 Toán: 4,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114094_Nguyễn Hoài Thương
+
+Văn: 5,5 Toán: 1,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114095_Nguyễn Hồng Việt Thương
+
+Văn: 6,25 Toán: 2,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114096_Diệp Liễu Thường
+
+Văn: 8 Toán: 8,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114097_Đặng Thị Ngọc Thúy
+
+Văn: 4 Toán: 2,25 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114098_Trần Ngọc Thanh Thúy
+
+Văn: 6,5 Toán: 3,5 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114099_Đặng Nguyễn Phương Thùy
+
+Văn: 6,75 Toán: 5,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114100_Nguyễn Thị Thanh Thùy
+
+Văn: 7,75 Toán: 4,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114101_Cao Thanh Thủy
+
+Văn: 4 Toán: 0,5 Ngoại Ngữ: 2,25 Môn Chuyên: 0
+
+114102_Châu Thanh Thủy
+
+Văn: 2,5 Toán: 0,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114103_Nguyễn Bích Thủy
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114104_Nguyễn Ngọc Thanh Thủy
+
+Văn: 4,5 Toán: 3,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114105_Bùi Hoàng Nhật Thy
+
+Văn: 5 Toán: 2,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114106_Bùi Lê Hồng Thy
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114107_Dã Ngọc Kiều Thy
+
+Văn: 5 Toán: 3,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114108_Đỗ Yến Thy
+
+Văn: 6,5 Toán: 2,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114109_Lâm Ngọc Bảo Thy
+
+Văn: 7 Toán: 6,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114110_Nguyễn Huỳnh Trúc Thy
+
+Văn: 7,75 Toán: 4,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114111_Nguyễn Phạm Quỳnh Thy
+
+Văn: 6,25 Toán: 3,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114112_Nguyễn Việt Thy
+
+Văn: 7,25 Toán: 3,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114113_Trần Ngọc Bảo Thy
+
+Văn: 8,5 Toán: 7,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114114_Võ Châu Bảo Thy
+
+Văn: 6 Toán: 4 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114115_Đoàn Thị Thủy Tiên
+
+Văn: 7,25 Toán: 4 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114116_Ngô Cát Tiên
+
+Văn: 7,5 Toán: 4 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114117_Thái Thủy Tiên
+
+Văn: 5,75 Toán: 2,75 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114118_Trần Võ Thị Thủy Tiên
+
+Văn: 7,5 Toán: 5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114119_Trương Mỹ Tiên
+
+Văn: 8 Toán: 5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114120_Trương Mỹ Tiên
+
+Văn: 7,5 Toán: 3 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114121_Từ Uyển Tiên
+
+Văn: 5,5 Toán: 4,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114122_Võ Thị Triều Tiên
+
+Văn: 6,75 Toán: 3,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114123_Vũ Nguyễn Cát Tiên
+
+Văn: 6 Toán: 4 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114124_Hồng Chí Tiến
+
+Văn: 3,25 Toán: 3,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114125_Huỳnh Minh Tiến
+
+Văn: 7,75 Toán: 8 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114126_Lê Phương Mạnh Tiến
+
+Văn: 6,5 Toán: 3,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114127_Lê Trọng Tiến
+
+Văn: 7,5 Toán: 6 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114128_Lương Minh Tiến
+
+Văn: 5,75 Toán: 5,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114129_Nguyễn Trí Tiến
+
+Văn: 4 Toán: 7 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114130_Nguyễn Trương Minh Tiến
+
+Văn: 4,25 Toán: 0,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114131_Phạm Mạnh Tiến
+
+Văn: 6 Toán: 7,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114132_Phan Minh Tiến
+
+Văn: 7 Toán: 4,5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114133_Võ Hoàng Minh Tiến
+
+Văn: 5 Toán: 3,5 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114134_Hà Trọng Tín
+
+Văn: 6,25 Toán: 3,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114135_Nguyễn Trần Trung Tín
+
+Văn: 5,25 Toán: 3,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114136_Nguyễn Trọng Tín
+
+Văn: 6,5 Toán: 6,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114137_Phan Trung Tín
+
+Văn: 5,75 Toán: 5,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114138_Tăng Trọng Tín
+
+Văn: 6,5 Toán: 8,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114139_Trần Trung Tín
+
+Văn: 6,25 Toán: 3 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114140_Trương Quân Tín
+
+Văn: 5 Toán: 4 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114141_Vi Trung Tín
+
+Văn: 5,5 Toán: 4,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114142_Nguyễn Khánh Toàn
+
+Văn: 6 Toán: 6,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114143_Nguyễn Võ Phi Toàn
+
+Văn: 8 Toán: 4 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114144_Nguyễn Vương Toàn
+
+Văn: 7,25 Toán: 7,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114145_Trần Trung Toàn
+
+Văn: 5 Toán: 4,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114146_Võ Minh Tới
+
+Văn: 7,5 Toán: 9 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114147_Phạm Nguyễn Thanh Trà
+
+Văn: 8,5 Toán: 5,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114148_Trịnh Minh Trà
+
+Văn: 5,5 Toán: 6,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114149_Cao Huỳnh Trâm
+
+Văn: 7,5 Toán: 7,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114150_Đinh Hoàng Bảo Trâm
+
+Văn: 6 Toán: 7,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114151_Lại Thị Diệu Trâm
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114152_Lê Huỳnh Bảo Trâm
+
+Văn: 7,5 Toán: 6 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114153_Nguyễn Bảo Trâm
+
+Văn: 4,75 Toán: 4,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114154_Nguyễn Hoàng Ngọc Trâm
+
+Văn: 8 Toán: 6,25 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114155_Nguyễn Lê Ngọc Trâm
+
+Văn: 4,5 Toán: 3 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114156_Nguyễn Ngô Mai Trâm
+
+Văn: 5,75 Toán: 2,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114157_Nguyễn Thị Kim Trâm
+
+Văn: 4,75 Toán: 3,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114158_Nguyễn Thị Tuyết Trâm
+
+Văn: 4 Toán: 3 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114159_Phan Thị Bích Trâm
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114160_Trương Ngọc Phương Trâm
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114161_Võ Hoàng Trâm
+
+Văn: 6,75 Toán: 7,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114162_Diệp Bảo Trân
+
+Văn: 7 Toán: 8,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114163_Đinh Trần Uyển Trân
+
+Văn: 5,75 Toán: 6,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114164_Đỗ Ngọc Bảo Trân
+
+Văn: 6,5 Toán: 5,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114165_La Bảo Trân
+
+Văn: 6,25 Toán: 3,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114166_Lâm Bảo Trân
+
+Văn: 7,75 Toán: 8 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114167_Lưu Huỳnh Thảo Trân
+
+Văn: 7,25 Toán: 7,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114168_Nguyễn Hồng Bảo Trân
+
+Văn: 8 Toán: 5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114169_Nguyễn Lê Bảo Trân
+
+Văn: 8 Toán: 6,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114170_Nguyễn Ngọc Bảo Trân
+
+Văn: 6,5 Toán: 7,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114171_Nguyễn Ngọc Bảo Trân
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114172_Nguyễn Ngọc Bảo Trân
+
+Văn: 6 Toán: 3,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114173_Ô Ý Trân
+
+Văn: 6,5 Toán: 8,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114174_Trần Thị Huyền Trân
+
+Văn: 4,75 Toán: 2 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114175_Trương Lê Bảo Trân
+
+Văn: 3,5 Toán: 1,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114176_Vũ Hoàng Bảo Trân
+
+Văn: 4,5 Toán: 3 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114177_Ngô Vĩnh Trấn
+
+Văn: 4,25 Toán: 2,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114178_Hồ Thị Thanh Trang
+
+Văn: 3,75 Toán: 2 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+114179_Lê Thị Mỹ Trang
+
+Văn: 6,25 Toán: 5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114180_Nguyễn Huyền Trang
+
+Văn: 8 Toán: 6,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114181_Nguyễn Minh Trang
+
+Văn: 4,75 Toán: 2,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114182_Nguyễn Thị Yến Trang
+
+Văn: 6 Toán: 6,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114183_Phan Thị Thùy Trang
+
+Văn: 6,25 Toán: 6 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114184_Tăng Ngọc Thu Trang
+
+Văn: 7,5 Toán: 3,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114185_Trần Ngọc Yến Trang
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114186_Vương Lê Ngọc Trang
+
+Văn: 7,75 Toán: 2,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114187_Diệp Minh Trí
+
+Văn: 6,25 Toán: 5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114188_Lê Mạnh Trí
+
+Văn: 6,25 Toán: 6 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114189_Lư Thái Trí
+
+Văn: 3,75 Toán: 4,75 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114190_Nguyễn Đức Trí
+
+Văn: 4 Toán: 0,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114191_Nguyễn Ngọc Trí
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114192_Nguyễn Quyết Trí
+
+Văn: 5 Toán: 7,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114193_Nguyễn San Mẫn Trí
+
+Văn: 7,25 Toán: 7 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114194_Nguyễn Viết Trí
+
+Văn: 6,25 Toán: 4,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114195_Phan Minh Trí
+
+Văn: 7,25 Toán: 5,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114196_Trần Phương Trí
+
+Văn: 4,75 Toán: 2,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114197_Trương Sùng Trí
+
+Văn: 7,25 Toán: 5,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114198_Trương Vũ Minh Trí
+
+Văn: 5,25 Toán: 5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114199_Nguyễn Minh Triết
+
+Văn: 6 Toán: 6,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114200_Trương Minh Triết
+
+Văn: 6,75 Toán: 7,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114201_Dương Hải Triều
+
+Văn: 6,75 Toán: 6,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114202_Võ Nguyễn Hải Triều
+
+Văn: 6,5 Toán: 8 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114203_Đoàn Thị Kiều Trinh
+
+Văn: 8,25 Toán: 6,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114204_Nguyễn Huỳnh Phương Trinh
+
+Văn: 3 Toán: 1,5 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114205_Nguyễn Ngọc Phương Trinh
+
+Văn: 8 Toán: 5,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114206_Nguyễn Phương Trinh
+
+Văn: 7,5 Toán: 2,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114207_Nguyễn Thị Ngọc Trinh
+
+Văn: 5,75 Toán: 7,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114208_Phạm Tú Trinh
+
+Văn: 6,75 Toán: 3,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114209_Võ Ngọc Trinh
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114210_Nguyễn Trần Hữu Trọng
+
+Văn: 7,75 Toán: 3,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114211_Bùi Nguyễn Thủy Trúc
+
+Văn: 7,75 Toán: 8,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114212_Huỳnh Lai Ngọc Trúc
+
+Văn: 7 Toán: 8 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114213_Huỳnh Ngọc Trúc
+
+Văn: 7,5 Toán: 6,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114214_Huỳnh Thanh Trúc
+
+Văn: 6 Toán: 1,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114215_Huỳnh Thị Thủy Trúc
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114216_Nguyễn Hoàng Thủy Trúc
+
+Văn: 7,75 Toán: 3,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114217_Nguyễn Ngọc Thanh Trúc
+
+Văn: 7,5 Toán: 5,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114218_Nguyễn Ngọc Thanh Trúc
+
+Văn: 7,75 Toán: 5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114219_Nguyễn Thị Ngọc Trúc
+
+Văn: 5,25 Toán: 3,25 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+114220_Nguyễn Trương Ngọc Trúc
+
+Văn: 6,5 Toán: 5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114221_Phan Nhã Trúc
+
+Văn: 8,25 Toán: 8 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114222_Phùng Thanh Trúc
+
+Văn: 3,75 Toán: 4 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114223_Trương Nguyễn Đông Trúc
+
+Văn: 6,25 Toán: 3,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114224_Võ Ngọc Thanh Trúc
+
+Văn: 3,5 Toán: 4 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114225_Bùi Đặng Đức Trung
+
+Văn: 6,25 Toán: 5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114226_Lê Minh Trung
+
+Văn: 1,5 Toán: 1 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+114227_Lê Thành Trung
+
+Văn: 4 Toán: 0 Ngoại Ngữ: 1,5 Môn Chuyên: 0
+
+114228_Ngô Tiến Trung
+
+Văn: 6,25 Toán: 7,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114229_Nguyễn Quang Trung
+
+Văn: 6,5 Toán: 4,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114230_Nguyễn Thành Trung
+
+Văn: 7,5 Toán: 8,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114231_Nguyễn Trần Kiến Trung
+
+Văn: 7,25 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114232_Trần Kiến Trung
+
+Văn: 3,75 Toán: 2,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114233_Võ Thành Trung
+
+Văn: 4,25 Toán: 2 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114234_Thái Nhật Trường
+
+Văn: 5 Toán: 4 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114235_Trương Ngô Trường
+
+Văn: 6,75 Toán: 6 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114236_Võ Xuân Trường
+
+Văn: 6,75 Toán: 6,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114237_Bùi Thân Minh Tú
+
+Văn: 5,25 Toán: 6,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114238_Đỗ Anh Tú
+
+Văn: 3,5 Toán: 3 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114239_Đỗ Hoàng Tuấn Tú
+
+Văn: 8,25 Toán: 9 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114240_Hồ Ngọc Minh Tú
+
+Văn: 8,25 Toán: 5,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114241_Huỳnh Thị Cẩm Tú
+
+Văn: 7,25 Toán: 4,75 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114242_Nguyễn Sơn Tú
+
+Văn: 6 Toán: 8,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114243_Ông Minh Tú
+
+Văn: 7,75 Toán: 9,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114244_Phạm Bùi Thanh Tú
+
+Văn: 5,5 Toán: 1,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114245_Phan Ngọc Tú
+
+Văn: 8,5 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114246_Tăng Cẩm Tú
+
+Văn: 6,5 Toán: 6,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114247_Trần Duy Trung Tú
+
+Văn: 7 Toán: 5,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114248_Trương Minh Tú
+
+Văn: 6 Toán: 6,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114249_Cam Gia Tuấn
+
+Văn: 2 Toán: 4 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+114250_Cao Hoàng Đức Tuấn
+
+Văn: 6 Toán: 5,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114251_Đỗ Minh Tuấn
+
+Văn: 7,75 Toán: 5,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114252_Lê Minh Tuấn
+
+Văn: 4,5 Toán: 1,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114253_Lê Minh Tuấn
+
+Văn: 7,25 Toán: 6,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114254_Lý Gia Tuấn
+
+Văn: 5,5 Toán: 6,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114255_Nguyễn Hoàng Quốc Tuấn
+
+Văn: 6,75 Toán: 5,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114256_Nguyễn Hữu Minh Tuấn
+
+Văn: 8 Toán: 4,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114257_Nguyễn Phạm Quốc Tuấn
+
+Văn: 7,5 Toán: 6 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114258_Nguyễn Văn Phước Tuấn
+
+Văn: 7 Toán: 7,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114259_Phan Anh Tuấn
+
+Văn: 7,5 Toán: 5,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114260_Trần Quốc Tuấn
+
+Văn: 5,5 Toán: 4,75 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114261_Võ Anh Tuấn
+
+Văn: 5,75 Toán: 4 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114262_Trần Minh Tuệ
+
+Văn: 7,5 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114263_Võ Tấn Tùng
+
+Văn: 6,5 Toán: 5,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114264_Bùi Đoàn Cát Tường
+
+Văn: 7 Toán: 3,25 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114265_Dương Cát Tường
+
+Văn: 7,25 Toán: 7,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114266_Hà Hữu Tường
+
+Văn: 6,75 Toán: 4,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114267_Huỳnh Phan Cát Tường
+
+Văn: 7 Toán: 5,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114268_Nguyễn Cát Tường
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114269_Nguyễn Chí Tường
+
+Văn: 1,75 Toán: 1,5 Ngoại Ngữ: 1 Môn Chuyên: 0
+
+114270_Nguyễn Gia Tường
+
+Văn: 6,5 Toán: 1,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114271_Nguyễn Minh Tường
+
+Văn: 6,25 Toán: 3,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114272_Nguyễn Ngọc Cát Tường
+
+Văn: 7,25 Toán: 4,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114273_Trần Kiến Tường
+
+Văn: 6 Toán: 5,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114274_Huỳnh Lê Thanh Tuyền
+
+Văn: 8 Toán: 4,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114275_Nguyễn Bùi Mỹ Tuyền
+
+Văn: 6,25 Toán: 2,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114276_Trương Trần Kim Tuyền
+
+Văn: 6,25 Toán: 3,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114277_Võ Lê Cát Tuyền
+
+Văn: 5 Toán: 4,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114278_Võ Trương Ngọc Tuyền
+
+Văn: 7,25 Toán: 5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114279_Trương Ngọc Tuyết
+
+Văn: 5 Toán: 4,25 Ngoại Ngữ: 2 Môn Chuyên: 0
+
+114280_Nguyễn Hoàng Khải Uy
+
+Văn: 6,75 Toán: 7 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114281_Đỗ Dương Phương Uyên
+
+Văn: 7,75 Toán: 6 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114282_Huỳnh Dương Gia Uyên
+
+Văn: 7,75 Toán: 5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114283_Lê Hoàng Nhã Uyên
+
+Văn: 8,75 Toán: 7,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114284_Lê Thị Phương Uyên
+
+Văn: 6,75 Toán: 2,5 Ngoại Ngữ: 1,5 Môn Chuyên: 0
+
+114285_Nguyễn Đào Phương Uyên
+
+Văn: 7,25 Toán: 4,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114286_Nguyễn Phương Uyên
+
+Văn: 8,5 Toán: 3,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114287_Trần Nguyễn Ngọc Uyên
+
+Văn: 8,25 Toán: 6,5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114288_Bùi Thanh Vân
+
+Văn: 5,25 Toán: 5,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114289_Bùi Thị Thanh Vân
+
+Văn: 7,75 Toán: 5,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114290_Chung Khánh Vân
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114291_Hồ Thanh Vân
+
+Văn: 7,25 Toán: 3,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114292_Lâm Triệu Vân
+
+Văn: 4,5 Toán: 1,25 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+114293_Lê Thanh Vân
+
+Văn: 5,75 Toán: 5,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114294_Nguyễn Hồ Hoàng Vân
+
+Văn: 1,75 Toán: 1,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114295_Nguyễn Hoàng Yến Vân
+
+Văn: 8 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114296_Nguyễn Ngọc Thanh Vân
+
+Văn: 8,25 Toán: 8,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114297_Nguyễn Ngọc Thu Vân
+
+Văn: 4,5 Toán: 3,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114298_Nguyễn Thái Thanh Vân
+
+Văn: 7 Toán: 2,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114299_Nguyễn Thị Thảo Vân
+
+Văn: 8,25 Toán: 7 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114300_Lâm Bội Văn
+
+Văn: 4,25 Toán: 2,75 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114301_Bùi Lê Yến Vi
+
+Văn: 8,5 Toán: 6,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114302_Dư Lê Yến Vi
+
+Văn: 8 Toán: 7 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114303_Lê Yến Vi
+
+Văn: 6,5 Toán: 9 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114304_Nguyễn Ngọc Thảo Vi
+
+Văn: 7 Toán: 4,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114305_Phan Hồ Đan Vi
+
+Văn: 7,25 Toán: 7 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114306_Trương Huỳnh Yến Vi
+
+Văn: 6,75 Toán: 5,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114307_Nguyễn Lê Tuấn Vĩ
+
+Văn: 5,5 Toán: 1,75 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114308_Tiêu Thiên Vĩ
+
+Văn: 6,5 Toán: 2,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114309_Phạm Tiến Vị
+
+Văn: 8 Toán: 7,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114310_Nguyễn Đặng Tuệ Viên
+
+Văn: 7,5 Toán: 7,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114311_Dương Quốc Việt
+
+Văn: 6 Toán: 8,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114312_Châu Phương Vinh
+
+Văn: 7,25 Toán: 7 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114313_Đặng Thuận Vinh
+
+Văn: 7,25 Toán: 8,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114314_Đặng Tuấn Vinh
+
+Văn: 4,5 Toán: 2,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114315_Huỳnh Thái Vinh
+
+Văn: 8 Toán: 4,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114316_Lê Nhật Vinh
+
+Văn: 8,25 Toán: 2,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114317_Lương Thái Vinh
+
+Văn: 7,25 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114318_Mai Phạm Gia Vinh
+
+Văn: 4,5 Toán: 3,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114319_Nguyễn Quang Vinh
+
+Văn: 4,25 Toán: 2,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114320_Trần Quang Vinh
+
+Văn: 5,75 Toán: 5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114321_Trần Quang Vinh
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114322_Trần Nhan Phúc Vĩnh
+
+Văn: 5,75 Toán: 4,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114323_Đặng Xuân Vũ
+
+Văn: 2 Toán: 3,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114324_Nguyễn Long Vũ
+
+Văn: 5,75 Toán: 4,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114325_Nguyễn Ninh Anh Vũ
+
+Văn: 6 Toán: 0,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114326_Phan Thanh Vũ
+
+Văn: 7 Toán: 7,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114327_Lê Đắc Vững
+
+Văn: 7,5 Toán: 4,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114328_Tằng Tiểu Vương
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114329_Đặng Ngọc Lê Vy
+
+Văn: 7,25 Toán: 5,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114330_Đặng Phương Vy
+
+Văn: 7,25 Toán: 3,5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114331_Đỗ Nguyễn Phương Vy
+
+Văn: 8 Toán: 3,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114332_Đỗ Thanh Vy
+
+Văn: 7,5 Toán: 5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114333_Đoàn Huỳnh Vy
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114334_Dương Nguyễn Bảo Vy
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114335_Huỳnh Lê Vy
+
+Văn: 6,75 Toán: 3,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114336_Huỳnh Ngọc Tường Vy
+
+Văn: 6 Toán: 5,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114337_Lại Ngọc Tường Vy
+
+Văn: 7,5 Toán: 5,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114338_Lê Phạm Phương Vy
+
+Văn: 7,5 Toán: 5,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114339_Lê Phương Vy
+
+Văn: 7 Toán: 8 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114340_Lê Thiều Vy
+
+Văn: 6,75 Toán: 5,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114341_Lê Thụy Tường Vy
+
+Văn: 6 Toán: 1,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114342_Lê Trần Thanh Vy
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114343_Lương Ngọc Lam Vy
+
+Văn: 7,75 Toán: 5,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114344_Mai Thái Tường Vy
+
+Văn: 5,5 Toán: 2 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114345_Nguyễn Cao Tường Vy
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114346_Nguyễn Hồ Trúc Vy
+
+Văn: 5 Toán: 2,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114347_Nguyễn Hồ Xuân Vy
+
+Văn: 7 Toán: 6,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114348_Nguyễn Hoài Thảo Vy
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114349_Nguyễn Huỳnh Ngọc Vy
+
+Văn: 6,75 Toán: 3,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114350_Nguyễn Khánh Vy
+
+Văn: 7 Toán: 6,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114351_Nguyễn Ngô Phương Vy
+
+Văn: 7 Toán: 3,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114352_Nguyễn Ngọc Quỳnh Vy
+
+Văn: 8,25 Toán: 8 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114353_Nguyễn Ngọc Tường Vy
+
+Văn: 5,25 Toán: 1,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114354_Nguyễn Ngọc Tường Vy
+
+Văn: 8,5 Toán: 6,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114355_Nguyễn Ngọc Yến Vy
+
+Văn: 8 Toán: 3,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114356_Nguyễn Phương Vy
+
+Văn: 8 Toán: 7,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114357_Nguyễn Thanh Phương Vy
+
+Văn: 4,25 Toán: 1,5 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+114358_Nguyễn Thị Thảo Vy
+
+Văn: 5 Toán: 3,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114359_Nguyễn Trần Tuyết Vy
+
+Văn: 6,25 Toán: 4,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114360_Nguyễn Tuyết Vy
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114361_Nguyễn Võ Tường Vy
+
+Văn: 7,25 Toán: 8 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114362_Phạm Hoàng Ngọc Vy
+
+Văn: 6,75 Toán: 3,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114363_Phạm Khả Vy
+
+Văn: 7 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114364_Phạm Lê Phương Vy
+
+Văn: 6,75 Toán: 5,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114365_Phan Lê Thảo Vy
+
+Văn: 8 Toán: 7,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114366_Thái Thị Thanh Vy
+
+Văn: 7,25 Toán: 4,75 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114367_Trần Lê Yến Vy
+
+Văn: 8,5 Toán: 4,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114368_Trần Ngọc Phương Vy
+
+Văn: 5,5 Toán: 4 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114369_Trần Nguyễn Lam Vy
+
+Văn: 5 Toán: 7 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114370_Trần Nguyễn Phương Vy
+
+Văn: 4,75 Toán: 6 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114371_Trần Nguyễn Thúy Vy
+
+Văn: 6,25 Toán: 6,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114372_Trần Nhật Vy
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114373_Trần Phương Vy
+
+Văn: 4 Toán: 2 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114374_Trần Thị Thảo Vy
+
+Văn: 7 Toán: 6,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114375_Trần Tường Vy
+
+Văn: 7 Toán: 3 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114376_Trần Yến Vy
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114377_Trương Khánh Vy
+
+Văn: 8,25 Toán: 4,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114378_Trương Ngọc Hân Vy
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114379_Trương Thảo Vy
+
+Văn: 6,75 Toán: 6,5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114380_Trương Trần Tường Vy
+
+Văn: 7,75 Toán: 4,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114381_VĂN HOÀNG VY
+
+Văn: 7,25 Toán: 9,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114382_Võ Ngọc Yến Vy
+
+Văn: 8,25 Toán: 0,75 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114383_Võ Phương Vy
+
+Văn: 7,25 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114384_Võ Phương Vy
+
+Văn: 5,75 Toán: 4,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114385_Võ Tạ Thanh Vy
+
+Văn: 4 Toán: 4 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114386_Vũ Ngọc Uyên Vy
+
+Văn: 8,25 Toán: 9 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114387_Huỳnh Tấn Vỹ
+
+Văn: 8,25 Toán: 7,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114388_Nguyễn Gia Vỹ
+
+Văn: 5,25 Toán: 5,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114389_Trần Tuấn Vỹ
+
+Văn: 5,5 Toán: 5,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114390_Võ Nhật Vỹ
+
+Văn: 5,25 Toán: 5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114391_Trương Gia Vỷ
+
+Văn: 6 Toán: 4 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114392_Nguyễn Ngọc Ánh Xuân
+
+Văn: 5 Toán: 3,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114393_Đinh Như Ý
+
+Văn: 5 Toán: 3 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114394_Dương Ngọc Như Ý
+
+Văn: 5,5 Toán: 5,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114395_Nguyễn Ngọc Như Ý
+
+Văn: 5 Toán: 4,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114396_Phạm Thụy Như Ý
+
+Văn: 6 Toán: 4 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114397_Phan Mỹ Ý
+
+Văn: 6,5 Toán: 7,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114398_Hồ Lâm Trúc Yên
+
+Văn: 6,25 Toán: 7,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114399_Huỳnh Phương Yên
+
+Văn: 6 Toán: 4 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114400_Nguyễn Hoàng Phương Yên
+
+Văn: 6 Toán: 5,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114401_Huỳnh Kim Yến
+
+Văn: 5,5 Toán: 1,75 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+114402_Lê Hoàng Yến
+
+Văn: 7,5 Toán: 6,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114403_Lê Kim Yến
+
+Văn: 7,5 Toán: 7,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114404_Lữ Ngọc Yến
+
+Văn: 7 Toán: 3,75 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114405_Nguyễn Hải Yến
+
+Văn: 6,25 Toán: 1,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114406_Nguyễn Kim Yến
+
+Văn: 4,25 Toán: 2 Ngoại Ngữ: 1,75 Môn Chuyên: 0
+
+114407_Trần Lê Hải Yến
+
+Văn: 7 Toán: 7,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114408_Trần Lê Thanh Yến
+
+Văn: 6,25 Toán: 5,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114409_Trương Bảo Yến
+
+Văn: 7 Toán: 4,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114410_Vũ Ngọc Hải Yến
+
+Văn: 7,75 Toán: 5,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114411_Hà Phúc An
+
+Văn: 4,5 Toán: 5,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114412_Lê Ngọc Phương An
+
+Văn: 6,25 Toán: 7,75 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114413_Nguyễn Trịnh Hoài An
+
+Văn: 6 Toán: 6 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114414_Phạm Huỳnh Thiên An
+
+Văn: 5,25 Toán: 5,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114415_Trịnh Mỹ An
+
+Văn: 5,75 Toán: 5,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114416_Bạch Thùy Anh
+
+Văn: 6 Toán: 7,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114417_Bùi Ngọc Minh Anh
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114418_Cao Nguyễn Trâm Anh
+
+Văn: 5,5 Toán: 5,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114419_Châu Quỳnh Anh
+
+Văn: 5 Toán: 5,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114420_Đặng Ngọc Quỳnh Anh
+
+Văn: 7,5 Toán: 7,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114421_Đỗ Hoàng Vân Anh
+
+Văn: 6 Toán: 3 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114422_Dương Ngọc Minh Anh
+
+Văn: 6,25 Toán: 3,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114423_Hà Nguyễn Hải Anh
+
+Văn: 2,25 Toán: 3 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114424_Hồ Đức Anh
+
+Văn: 6,5 Toán: 6 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114425_Huỳnh Lê Quế Anh
+
+Văn: 6,5 Toán: 6,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114426_Lê Bảo Anh
+
+Văn: 7,75 Toán: 7,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114427_Lê Đức Anh
+
+Văn: 6,75 Toán: 6,5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114428_Lê Hải Anh
+
+Văn: 7,5 Toán: 3,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114429_Lê Ngọc Kim Anh
+
+Văn: 5,5 Toán: 6 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114430_Lê Ngọc Phương Anh
+
+Văn: 7,5 Toán: 3,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114431_Lê Nguyễn Đức Anh
+
+Văn: 5,25 Toán: 7,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114432_Lê Nguyễn Quỳnh Anh
+
+Văn: 6,5 Toán: 5,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114433_Lưu Phương Anh
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114434_Ngô Ngọc Anh
+
+Văn: 6,75 Toán: 2,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114435_Ngô Thụy Hoàng Anh
+
+Văn: 7,75 Toán: 8 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114436_Nguyễn Đức Anh
+
+Văn: 7,75 Toán: 6,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114437_Nguyễn Hà Anh
+
+Văn: 7,75 Toán: 5,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114438_Nguyễn Huỳnh Ngọc Anh
+
+Văn: 7,75 Toán: 3 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114439_Nguyễn Kiều Quỳnh Anh
+
+Văn: 6,75 Toán: 6,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114440_Nguyễn Lê Phương Anh
+
+Văn: 7,25 Toán: 7,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114441_Nguyễn Lê Phương Anh
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114442_Nguyễn Mai Anh
+
+Văn: 6,25 Toán: 5,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114443_Nguyễn Nghiêm Minh Anh
+
+Văn: 7 Toán: 3 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114444_Nguyễn Ngọc Anh
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114445_Nguyễn Ngọc Hải Anh
+
+Văn: 8 Toán: 7 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114446_Nguyễn Ngọc Phương Anh
+
+Văn: 6,75 Toán: 5,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114447_Nguyễn Ngọc Quỳnh Anh
+
+Văn: 7,75 Toán: 7,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114448_Nguyễn Ngọc Vân Anh
+
+Văn: 6 Toán: 4 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114449_Nguyễn Phan Tâm Anh
+
+Văn: 7 Toán: 7,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114450_Nguyễn Vũ Phương Anh
+
+Văn: 7,25 Toán: 6,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114451_Phạm Đình Anh
+
+Văn: 7,25 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114452_Phạm Vũ Trâm Anh
+
+Văn: 7 Toán: 7,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114453_Phan Hải Anh
+
+Văn: 4,5 Toán: 0,75 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114454_Phan Hoàng Bảo Anh
+
+Văn: 6,75 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114455_Phan Quỳnh Anh
+
+Văn: 8 Toán: 7 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114456_Phan Quỳnh Anh
+
+Văn: 7,75 Toán: 4,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114457_Trần Duyên Anh
+
+Văn: 6,75 Toán: 4,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114458_Trần Hoàng Phương Anh
+
+Văn: 6,25 Toán: 5,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114459_Trần Phú Nguyên Anh
+
+Văn: 8 Toán: 4,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114460_Trần Thảo Anh
+
+Văn: 7,75 Toán: 4,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114461_Trần Thị Duyên Anh
+
+Văn: 6,25 Toán: 6 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+114462_Trần Thị Hoàng Anh
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114463_Nguyễn Thị Ngọc Ánh
+
+Văn: 5,5 Toán: 1,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114464_Nguyễn Tấn Bách
+
+Văn: 5,75 Toán: 3,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114465_Trần Xuân Bách
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114466_Đặng Trí Bảo
+
+Văn: 6,75 Toán: 5,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114467_Dương Gia Bảo
+
+Văn: 7 Toán: 6,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114468_Dương Gia Bảo
+
+Văn: 6,25 Toán: 6,75 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114469_Hàng Thái Bảo
+
+Văn: 5,5 Toán: 2,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114470_Lê Đình Bảo
+
+Văn: 6 Toán: 2,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114471_Lê Gia Bảo
+
+Văn: 6,75 Toán: 6,75 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114472_Lê Nguyễn Gia Bảo
+
+Văn: 7,5 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114473_Nguyễn Lê Thiên Bảo
+
+Văn: 7 Toán: 6,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114474_Phạm Gia Bảo
+
+Văn: 6,25 Toán: 6,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114475_Phạm Gia Bảo
+
+Văn: 6,25 Toán: 4 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114476_Phạm Trương Thiên Bảo
+
+Văn: 4,75 Toán: 2 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114477_Trương Đình Quốc Bảo
+
+Văn: 5,75 Toán: 5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114478_Văn Ngọc Bảo
+
+Văn: 6,5 Toán: 8 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114479_Võ Bùi Gia Bảo
+
+Văn: 7,75 Toán: 6,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114480_Vũ Đình Lê Bảo
+
+Văn: 8,25 Toán: 6,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114481_Phan Ngọc Thúy Bình
+
+Văn: 5,75 Toán: 3,75 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114482_Trương Nguyễn Hòa Bình
+
+Văn: 7 Toán: 5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114483_Lâm Gia Cát
+
+Văn: 6,75 Toán: 3,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114484_Ngô Minh Chánh
+
+Văn: 7 Toán: 8,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114485_Nguyễn Ngọc Bảo Châu
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114486_Phùng Ngọc Minh Châu
+
+Văn: 8,25 Toán: 7,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114487_Tạ Hoàng Minh Châu
+
+Văn: 8,5 Toán: 6,25 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114488_Trịnh Châu
+
+Văn: 3 Toán: 5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114489_Nguyễn Vĩnh Chuyên
+
+Văn: 7,25 Toán: 4,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114490_Nguyễn Việt Cường
+
+Văn: 7,25 Toán: 6,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114491_Phạm Trần Quốc Cường
+
+Văn: 8 Toán: 8 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114492_Nguyễn Phúc Nguyên Đắc
+
+Văn: 7 Toán: 3,75 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114493_Trần Quang Đại
+
+Văn: 6,75 Toán: 6,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114494_Vương Nhã Dân
+
+Văn: 8 Toán: 6,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114495_Huỳnh Ngô Nhật Đan
+
+Văn: 7,75 Toán: 7,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114496_Trần Quốc Đăng
+
+Văn: 7 Toán: 8,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114497_Võ Hải Đăng
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114498_Nguyễn Hoàng Tấn Đạt
+
+Văn: 6,5 Toán: 6,5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114499_Trần Tấn Đạt
+
+Văn: 5 Toán: 1,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114500_Vương Tiến Đạt
+
+Văn: 6,25 Toán: 2,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114501_Trần Ngọc Diệp
+
+Văn: 6,75 Toán: 2,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114502_Huỳnh Doanh Doanh
+
+Văn: 7 Toán: 5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114503_Tạ Khánh Du
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114504_Bùi Hồng Đức
+
+Văn: 6,75 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114505_Đàm Minh Đức
+
+Văn: 6,5 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114506_Dương Ngọc Đức
+
+Văn: 7,5 Toán: 6,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114507_Hoàng Huy Đức
+
+Văn: 7,5 Toán: 3,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114508_Nguyễn Minh Đức
+
+Văn: 6,75 Toán: 5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114509_Tô Minh Đức
+
+Văn: 6,75 Toán: 2,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114510_Bùi Đức Dũng
+
+Văn: 6,5 Toán: 8,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114511_Ngô Đức Dũng
+
+Văn: 6,5 Toán: 5,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114512_Nguyễn Lưu Chí Dũng
+
+Văn: 8,25 Toán: 6,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114513_Nguyễn Tiến Dũng
+
+Văn: 8,25 Toán: 7,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114514_Phan Tuấn Dũng
+
+Văn: 6,25 Toán: 5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114515_Vũ Hoàng Tiến Dũng
+
+Văn: 6,25 Toán: 5,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114516_Đoàn Anh Dương
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114517_Huỳnh An Dương
+
+Văn: 7,75 Toán: 4,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114518_Huỳnh Phan Thái Dương
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114519_Lê Bình Dương
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114520_Nguyễn Bá Đăng Dương
+
+Văn: 5,5 Toán: 8,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114521_Nguyễn Thùy Dương
+
+Văn: 7,25 Toán: 5,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114522_Lê Quang Duy
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114523_Nguyễn Minh Duy
+
+Văn: 5 Toán: 4,25 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114524_Nguyễn Trần Anh Duy
+
+Văn: 6 Toán: 7,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114525_Phạm Anh Duy
+
+Văn: 7 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114526_Phạm Khánh Duy
+
+Văn: 4,75 Toán: 2,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114527_Dương Hoàng Hà
+
+Văn: 6 Toán: 6,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114528_Hoàng Ngọc Hà
+
+Văn: 6 Toán: 7 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114529_Ngô Yên Hà
+
+Văn: 6,5 Toán: 6,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114530_Thái Thị Hà
+
+Văn: 6,5 Toán: 6,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114531_Vũ Minh Hà
+
+Văn: 7,5 Toán: 7 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114532_Lê Trần Nguyên Hạ
+
+Văn: 6,5 Toán: 9 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114533_Nguyễn Bình An Hạ
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114534_Nguyễn Thanh Hải
+
+Văn: 7,5 Toán: 3,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114535_Trương Hoàng Hải
+
+Văn: 7,5 Toán: 5,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114536_Bùi Khánh Hân
+
+Văn: 7,25 Toán: 4,25 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114537_Đặng Trần Gia Hân
+
+Văn: 5,25 Toán: 4,5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114538_Nguyễn Minh Hân
+
+Văn: 5,75 Toán: 3,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114539_Nguyễn Ngọc Gia Hân
+
+Văn: 5,75 Toán: 3 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114540_Thái Ngọc Gia Hân
+
+Văn: 7 Toán: 6,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114541_Trần Gia Hân
+
+Văn: 5,5 Toán: 6 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114542_Trần Nguyễn Gia Hân
+
+Văn: 5,5 Toán: 4,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114543_Trương Gia Hân
+
+Văn: 7,75 Toán: 8,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114544_Trương Mạnh Bảo Hân
+
+Văn: 7 Toán: 3 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114545_Vòong Thị Ngọc Hân
+
+Văn: 8,5 Toán: 6,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114546_Ngô Thanh Hằng
+
+Văn: 6 Toán: 7,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114547_Phạm Thị Diễm Hằng
+
+Văn: 7,25 Toán: 7 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114548_TRẦN PHÚC TẤN HÀO
+
+Văn: 8,5 Toán: 7,75 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114549_Nguyễn Thành Hậu
+
+Văn: 7 Toán: 9 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114550_Nguyễn Thu Hiền
+
+Văn: 7,5 Toán: 5,75 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+114551_Nguyễn Xuân Hiền
+
+Văn: 3,75 Toán: 5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114552_Nguyễn Trương Minh Hiếu
+
+Văn: 6,5 Toán: 4,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114553_Trần Anh Hiếu
+
+Văn: 5,5 Toán: 6,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114554_Phan Minh Hòa
+
+Văn: 8 Toán: 5,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114555_Đặng Thị Thanh Hoài
+
+Văn: 7,75 Toán: 7,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114556_Nguyễn Huy Hoàng
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114557_Nguyễn Khánh Hoàng
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114558_Phạm Thị Thu Hồng
+
+Văn: 7,5 Toán: 2,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114559_Nguyễn Đình Mạnh Hùng
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114560_Đỗ Thiện Hưng
+
+Văn: 5,5 Toán: 5,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114561_Hồ Duy Hưng
+
+Văn: 8,5 Toán: 7,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114562_Mai Gia Hưng
+
+Văn: 7 Toán: 5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114563_Ngụy Trung Hưng
+
+Văn: 7,75 Toán: 3,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114564_Nguyễn Khánh Hưng
+
+Văn: 7,25 Toán: 5,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114565_Nguyễn Võ Gia Hưng
+
+Văn: 7,5 Toán: 5,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114566_Nguyễn Ngọc Quỳnh Hương
+
+Văn: 5,25 Toán: 1,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114567_Nguyễn Thanh Hương
+
+Văn: 8,25 Toán: 3,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114568_Đặng Trần Gia Huy
+
+Văn: 4,25 Toán: 4,25 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+114569_Đỗ Minh Huy
+
+Văn: 5,25 Toán: 4 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114570_Đoàn Gia Huy
+
+Văn: 4 Toán: 4,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114571_Dương Quốc Huy
+
+Văn: 5,25 Toán: 5,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114572_Hoàng Gia Huy
+
+Văn: 6,25 Toán: 3,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114573_Lê Công Đăng Huy
+
+Văn: 6,75 Toán: 3,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114574_Lê Minh Huy
+
+Văn: 6,75 Toán: 9 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114575_Ngô Đăng Huy
+
+Văn: 7 Toán: 5,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114576_Nguyễn Huỳnh Đức Huy
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114577_Nguyễn Minh Huy
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114578_Nguyễn Phúc Huy
+
+Văn: 6 Toán: 4,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114579_Nguyễn Quốc Huy
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114580_Nguyễn Thái Vĩnh Huy
+
+Văn: 6,25 Toán: 8 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114581_Nguyễn Tuấn Huy
+
+Văn: 8 Toán: 4,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114582_Trần Đình Huy
+
+Văn: 8 Toán: 4,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114583_Nguyễn Thanh Huyền
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114584_Phạm Trần Mai Huỳnh
+
+Văn: 7,5 Toán: 3,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114585_Nguyễn Gia Hy
+
+Văn: 6 Toán: 4 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114586_Nguyễn Khánh Hỷ
+
+Văn: 7,25 Toán: 6,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114587_Trần Tấn Kha
+
+Văn: 6,75 Toán: 2,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114588_Nguyễn Bá Tuấn Khải
+
+Văn: 7,5 Toán: 4,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114589_Phạm Trương Tấn Khải
+
+Văn: 7,25 Toán: 7,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114590_Đào Lê Khang
+
+Văn: 7,5 Toán: 7,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114591_Dương Minh Khang
+
+Văn: 6,5 Toán: 5,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114592_Mai Duy Khang
+
+Văn: 5,5 Toán: 2,25 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114593_Nguyễn Chí Khang
+
+Văn: 6 Toán: 4,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114594_Nguyễn Hoàng Phúc Khang
+
+Văn: 6,25 Toán: 7,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114595_Nguyễn Lê Minh Khang
+
+Văn: 5,75 Toán: 6 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114596_Nguyễn Mạnh Khang
+
+Văn: 5,5 Toán: 3,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114597_Nguyễn Trần Bảo Khang
+
+Văn: 3,25 Toán: 5,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114598_Phạm Gia Khang
+
+Văn: 5 Toán: 5,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114599_Phạm Hoàng Khang
+
+Văn: 6 Toán: 3 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114600_Tạ Tuấn Khang
+
+Văn: 4,25 Toán: 3,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114601_Tăng Phú Khang
+
+Văn: 6,5 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114602_Tô Bảo Khang
+
+Văn: 6,75 Toán: 7,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114603_Võ Hoàng Duy Khang
+
+Văn: 5,25 Toán: 4 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114604_Đặng Lê Bảo Khanh
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114605_Nguyễn Duy Khanh
+
+Văn: 5,5 Toán: 4,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114606_Nguyễn Phương Khanh
+
+Văn: 5,75 Toán: 2,25 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114607_Phan Nguyễn Bá Khanh
+
+Văn: 6,5 Toán: 8 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114608_Bùi Kim Khánh
+
+Văn: 5,25 Toán: 5,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114609_Đoàn Vũ Duy Khánh
+
+Văn: 7 Toán: 5,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114610_Ngô Gia Khánh
+
+Văn: 6 Toán: 4 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114611_Nguyễn Ngọc Khánh
+
+Văn: 5,75 Toán: 6,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114612_Phạm Vũ Khánh
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114613_Trương Công Khánh
+
+Văn: 6,5 Toán: 8,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114614_Trương Quốc Khánh
+
+Văn: 6,75 Toán: 5,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114615_Vũ Gia Khánh
+
+Văn: 7 Toán: 4,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114616_Cao Anh Khoa
+
+Văn: 6,5 Toán: 4,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114617_Hồ Đăng Khoa
+
+Văn: 7,5 Toán: 7,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114618_Huỳnh Vũ Phước Khoa
+
+Văn: 7 Toán: 4,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114619_Lê Anh Khoa
+
+Văn: 6 Toán: 2,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114620_Ngô Hữu Anh Khoa
+
+Văn: 6,5 Toán: 3 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114621_Nguyễn Anh Khoa
+
+Văn: 8 Toán: 8,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114622_Nguyễn Đăng Khoa
+
+Văn: 6 Toán: 4,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114623_Nguyễn Đỗ Đăng Khoa
+
+Văn: 6,25 Toán: 6,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114624_Nguyễn Hữu Đăng Khoa
+
+Văn: 7 Toán: 2,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114625_Nguyễn Phạm Anh Khoa
+
+Văn: 5,75 Toán: 5,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114626_Phương Nguyễn Đăng Khoa
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114627_Trần Nguyễn Minh Khoa
+
+Văn: 4,75 Toán: 1,75 Ngoại Ngữ: 2,25 Môn Chuyên: 0
+
+114628_Đặng Ngọc Thành Khôi
+
+Văn: 6,25 Toán: 8,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114629_Lê Hoàng Mai Khôi
+
+Văn: 7 Toán: 7 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114630_Mai Nguyễn Minh Khôi
+
+Văn: 8 Toán: 7,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114631_Nguyễn Anh Khôi
+
+Văn: 3,5 Toán: 3,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114632_Nguyễn Lâm Khôi
+
+Văn: 7,25 Toán: 6,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114633_Nguyễn Trần Anh Khôi
+
+Văn: 6,5 Toán: 7,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114634_Phạm Đức Khôi
+
+Văn: 6,5 Toán: 2,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114635_Trần Lê Nguyên Khôi
+
+Văn: 7 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114636_Trần Nguyễn Anh Khôi
+
+Văn: 5,5 Toán: 4 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114637_Võ Đăng Khôi
+
+Văn: 7,25 Toán: 4,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114638_Vũ Minh Khôi
+
+Văn: 5,75 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114639_Đào Mai Khuê
+
+Văn: 7,25 Toán: 7,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114640_Lâm Phạm Minh Khuê
+
+Văn: 6,75 Toán: 4,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114641_Trần Trung Kiên
+
+Văn: 5,75 Toán: 4 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114642_Ngô Tuấn Kiệt
+
+Văn: 5,75 Toán: 7,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114643_Nguyễn Gia Kiệt
+
+Văn: 6,25 Toán: 4 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114644_Nguyễn Thúy Kiều
+
+Văn: 4,5 Toán: 2,25 Ngoại Ngữ: 2,25 Môn Chuyên: 0
+
+114645_Đào Đình Kim
+
+Văn: 6 Toán: 5,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114646_Đỗ Hoàng Mỹ Kim
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114647_Trần Nguyễn Thiên Kim
+
+Văn: 5,75 Toán: 2,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114648_Chheang Mỹ Kỳ
+
+Văn: 8,5 Toán: 7 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114649_Khổng Tử Chung Gia Kỳ
+
+Văn: 7 Toán: 7,5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114650_Nguyễn Hoàng Nhã Kỳ
+
+Văn: 8,25 Toán: 5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114651_Hoàng Nhật Lam
+
+Văn: 7,5 Toán: 7 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114652_Lê Thanh Lam
+
+Văn: 6,25 Toán: 6 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114653_Nguyễn Trúc Lam
+
+Văn: 7,5 Toán: 7 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114654_Nguyễn Trí Tường Lâm
+
+Văn: 2,5 Toán: 3,5 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114655_Châu Ngọc Lan
+
+Văn: 8 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114656_Lê Thái Lân
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114657_Nguyễn Triết Lập
+
+Văn: 6,75 Toán: 6 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114658_Dung Mỹ Lệ
+
+Văn: 7,75 Toán: 6,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114659_Bùi Đặng Hoàng Linh
+
+Văn: 7 Toán: 4,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114660_Đỗ Ngọc Phương Linh
+
+Văn: 7,75 Toán: 6,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114661_Lê Hồng Linh
+
+Văn: 7,5 Toán: 3,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114662_Ngô Thùy Linh
+
+Văn: 7,25 Toán: 6,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114663_Nguyễn Ngọc Hà Linh
+
+Văn: 5,25 Toán: 2,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114664_Nguyễn Trần Cẩm Linh
+
+Văn: 7,75 Toán: 6 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114665_Nguyễn Trần Khánh Linh
+
+Văn: 7,5 Toán: 8 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114666_Phạm Ánh Linh
+
+Văn: 8 Toán: 7,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114667_Trần Khánh Linh
+
+Văn: 7,75 Toán: 7,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114668_Nguyễn Tấn Lộc
+
+Văn: 5,25 Toán: 3,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114669_Hồ Đăng Trần Long
+
+Văn: 6,75 Toán: 5,75 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114670_Hồ Hoàng Long
+
+Văn: 7,5 Toán: 8,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114671_Huỳnh Thiên Long
+
+Văn: 7,25 Toán: 4 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114672_Lâm Nguyễn Thành Long
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114673_Lý Hiển Long
+
+Văn: 6,5 Toán: 6,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114674_Mai Nguyễn Hoàng Long
+
+Văn: 7 Toán: 7,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114675_Ngô Hiển Long
+
+Văn: 6,25 Toán: 2,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114676_Ngô Huỳnh Gia Long
+
+Văn: 6,25 Toán: 7,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114677_Nguyễn Hoàng Long
+
+Văn: 5,5 Toán: 5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114678_Thái Đình Long
+
+Văn: 6,5 Toán: 6 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114679_Trần Bảo Long
+
+Văn: 7,5 Toán: 6,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114680_Võ Hoàng Long
+
+Văn: 4 Toán: 2 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114681_Phùng Quốc Luân
+
+Văn: 7,75 Toán: 5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114682_Nguyễn Gia Luật
+
+Văn: 7 Toán: 8 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114683_Nguyễn Thị Thanh Mai
+
+Văn: 6,5 Toán: 2,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114684_Phạm Nguyễn Ngọc Mai
+
+Văn: 7,75 Toán: 3 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114685_Trang Ngọc Mẫn
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114686_Bùi Gia Minh
+
+Văn: 6 Toán: 8,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114687_Đỗ Lê Anh Minh
+
+Văn: 7,75 Toán: 5,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114688_Dương Văn Minh
+
+Văn: 5 Toán: 5 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114689_Hoàng Nhật Minh
+
+Văn: 7,25 Toán: 6,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114690_Khương Nguyễn Hữu Minh
+
+Văn: 7,75 Toán: 5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114691_Lê Anh Minh
+
+Văn: 4,25 Toán: 5 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114692_Lê Công Hiếu Minh
+
+Văn: 7,5 Toán: 8,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114693_Lê Hải Minh
+
+Văn: 6,25 Toán: 3,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114694_Lê Hồng Minh
+
+Văn: 6,5 Toán: 2,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114695_Nguyễn Minh
+
+Văn: 2 Toán: 2,5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114696_Nguyễn Cao Bảo Minh
+
+Văn: 6,5 Toán: 6,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114697_Nguyễn Đức Minh
+
+Văn: 5 Toán: 6,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114698_Nguyễn Nhật Minh
+
+Văn: 5,75 Toán: 6 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114699_Nguyễn Vũ Tuấn Minh
+
+Văn: 8,5 Toán: 8,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114700_Phạm Tuấn Minh
+
+Văn: 6 Toán: 3,75 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114701_Trần Anh Minh
+
+Văn: 7,75 Toán: 7,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114702_Trần Công Minh
+
+Văn: 8 Toán: 5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114703_Trần Khánh Minh
+
+Văn: 4,5 Toán: 5,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114704_Trần Nhật Minh
+
+Văn: 8 Toán: 5,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114705_Trần Phúc Thiện Minh
+
+Văn: 3,5 Toán: 2,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114706_Trần Quang Minh
+
+Văn: 6 Toán: 3,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114707_Trần Quốc Minh
+
+Văn: 8,5 Toán: 6,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114708_Trương Anh Minh
+
+Văn: 6 Toán: 7 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114709_Võ Chí Minh
+
+Văn: 8 Toán: 8 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114710_Vũ Bình Minh
+
+Văn: 6 Toán: 6 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114711_Bùi Nguyễn Nhã My
+
+Văn: 6,75 Toán: 7,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114712_Chu Nguyễn Hà My
+
+Văn: 5 Toán: 3,25 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114713_Hà Ngọc Kiều My
+
+Văn: 8,25 Toán: 6 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114714_Hồ Đắc Hoàng My
+
+Văn: 5,5 Toán: 5,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114715_Lê Nguyễn Hoàng My
+
+Văn: 6,75 Toán: 8 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114716_Nguyễn Hoàng Tiểu My
+
+Văn: 7 Toán: 3,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114717_Nguyễn Ngọc Giáng My
+
+Văn: 6,5 Toán: 8 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114718_Nguyễn Ngọc Hà My
+
+Văn: 6,75 Toán: 4 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114719_Trương Gia Mỹ
+
+Văn: 8 Toán: 5,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114720_Thái Thiện Chi Na
+
+Văn: 6,25 Toán: 7,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114721_Du Khải Nam
+
+Văn: 6 Toán: 5,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114722_Nguyễn Hải Nam
+
+Văn: 6 Toán: 4,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114723_Phạm Hoàng Nam
+
+Văn: 6 Toán: 4,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114724_Phan Nhật Nam
+
+Văn: 5,75 Toán: 6,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114725_Trần Huỳnh Bảo Nam
+
+Văn: 6,25 Toán: 7,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114726_Trần Nguyễn Khánh Nam
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114727_Nguyễn Quỳnh Nga
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114728_Đỗ Ngọc Ngân
+
+Văn: 5,5 Toán: 4,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114729_Đỗ Nguyễn Thiên Ngân
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114730_Nguyễn Hồng Thiên Ngân
+
+Văn: 6,5 Toán: 3 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114731_Phí Kim Ngân
+
+Văn: 6,75 Toán: 6,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114732_Võ Thanh Ngân
+
+Văn: 4,75 Toán: 6 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114733_Lương Phương Nghi
+
+Văn: 4,75 Toán: 5,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114734_Nguyễn Đoan Đông Nghi
+
+Văn: 7 Toán: 7 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114735_Nguyễn Hoàng Phúc Nghi
+
+Văn: 8,5 Toán: 7,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114736_Nguyễn Thái Phương Nghi
+
+Văn: 8 Toán: 7,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114737_Trần Hồng Uyên Nghi
+
+Văn: 7 Toán: 7 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114738_Bùi Nguyễn Huy Nghĩa
+
+Văn: 7 Toán: 6,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114739_Đoàn Lê Gia Nghĩa
+
+Văn: 4,5 Toán: 3,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114740_Chế Nguyễn Bảo Ngọc
+
+Văn: 5,75 Toán: 4,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114741_Đỗ Cẩm Ngọc
+
+Văn: 7,5 Toán: 5,25 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114742_Hoàng Lê Bảo Ngọc
+
+Văn: 8 Toán: 8,75 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114743_Huỳnh Lê Bảo Ngọc
+
+Văn: 8,25 Toán: 8,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114744_Lê Ánh Ngọc
+
+Văn: 7 Toán: 8,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114745_Lê Bửu Ngọc
+
+Văn: 7,5 Toán: 8 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114746_Lê Nguyễn Bảo Ngọc
+
+Văn: 5 Toán: 2,75 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114747_Lê Như Ngọc
+
+Văn: 8 Toán: 2,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114748_Lê Thị Cẩm Ngọc
+
+Văn: 7 Toán: 9 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114749_Lê Trương Hoàng Ngọc
+
+Văn: 8 Toán: 7,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114750_Lương Thị Khánh Ngọc
+
+Văn: 7 Toán: 4,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114751_Nguyễn Bùi Bảo Ngọc
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114752_Nguyễn Hà Hồng Ngọc
+
+Văn: 6,75 Toán: 4,5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114753_Nguyễn Hoàng Minh Ngọc
+
+Văn: 7,25 Toán: 4,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114754_Nguyễn Lê Hồng Ngọc
+
+Văn: 7,5 Toán: 5,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114755_Nguyễn Phạm Kim Ngọc
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114756_Nguyễn Thị Ánh Ngọc
+
+Văn: 7,25 Toán: 6,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114757_Phạm Nguyễn Phương Ngọc
+
+Văn: 7 Toán: 5,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114758_Phạm Thị Ánh Ngọc
+
+Văn: 6,5 Toán: 5,75 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114759_Tôn Gia Ngọc
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114760_Trần Hoài Bích Ngọc
+
+Văn: 5,5 Toán: 3,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114761_Trần Hoàng Bảo Ngọc
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114762_Trương Thúy Ngọc
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114763_Võ Ngô Thanh Ngọc
+
+Văn: 7,25 Toán: 7,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114764_Lý Phúc Nguyên
+
+Văn: 7,25 Toán: 6,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114765_Nguyễn Phạm Phước Nguyên
+
+Văn: 7,25 Toán: 6,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114766_Nguyễn Phúc Gia Nguyên
+
+Văn: 6 Toán: 5,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114767_Nguyễn Thái Hoàng Nguyên
+
+Văn: 4,25 Toán: 3,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114768_Tô Khôi Nguyên
+
+Văn: 8 Toán: 7,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114769_Trần Minh Khôi Nguyên
+
+Văn: 6,5 Toán: 4,75 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114770_Vũ Anh Nguyên
+
+Văn: 7,5 Toán: 5,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114771_Vũ Bảo Nguyên
+
+Văn: 7 Toán: 4 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114772_Đoàn Trí Nguyễn
+
+Văn: 6,75 Toán: 6,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114773_Phan Lê Ngọc Như Ý Nguyện
+
+Văn: 8,5 Toán: 7 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114774_Nguyễn Hữu Phương Nha
+
+Văn: 8,75 Toán: 7,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114775_Lê Thanh Nhàn
+
+Văn: 8,25 Toán: 7,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114776_Lê Nguyễn Quốc Nhân
+
+Văn: 6,25 Toán: 8 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114777_Mai Trí Nhân
+
+Văn: 6 Toán: 5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114778_Nguyễn Chí Nhân
+
+Văn: 6,75 Toán: 7,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114779_Nguyễn Trí Nhân
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114780_Phan Hồng Nhân
+
+Văn: 8 Toán: 2,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114781_Bùi Minh Nhật
+
+Văn: 4 Toán: 4,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114782_Đỗ Nguyễn Minh Nhật
+
+Văn: 5,75 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114783_Lê Minh Nhật
+
+Văn: 5 Toán: 4,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114784_Lê Hoàng Tuyết Nhi
+
+Văn: 6,5 Toán: 4,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114785_Lê Nguyễn Uyển Nhi
+
+Văn: 7,75 Toán: 3,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114786_Nguyễn Bảo Nhi
+
+Văn: 7,25 Toán: 3 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114787_Nguyễn Hoàng Yến Nhi
+
+Văn: 7,25 Toán: 8,25 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114788_Nguyễn Lê Bảo Nhi
+
+Văn: 6,75 Toán: 7,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114789_Nguyễn Thanh Thảo Nhi
+
+Văn: 7,75 Toán: 7,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114790_Tăng Nguyễn Phương Nhi
+
+Văn: 8,5 Toán: 5,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114791_Võ Ngô Yến Nhi
+
+Văn: 8 Toán: 2 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114792_Đỗ Quỳnh Như
+
+Văn: 4,75 Toán: 4,25 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114793_Huỳnh Ngọc Ái Như
+
+Văn: 5,5 Toán: 5,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114794_Lê Quỳnh Như
+
+Văn: 7,5 Toán: 6,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114795_Lưu Quỳnh Như
+
+Văn: 7 Toán: 8 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114796_Nguyễn Ngọc Quỳnh Như
+
+Văn: 6,75 Toán: 7,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114797_Tô Ngọc Quỳnh Như
+
+Văn: 6,5 Toán: 5,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114798_Trịnh Vũ Quỳnh Như
+
+Văn: 7,5 Toán: 7,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114799_Võ Minh Nhựt
+
+Văn: 6 Toán: 6,5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114800_Bùi Tấn Phát
+
+Văn: 6,75 Toán: 4,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114801_Huỳnh Minh Phát
+
+Văn: 2,75 Toán: 2,5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114802_Nguyễn Thành Phát
+
+Văn: 4,25 Toán: 7,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114803_Trần Đức Phát
+
+Văn: 7 Toán: 7,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114804_Bùi Lã Cao Phi
+
+Văn: 7,75 Toán: 8 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114805_Nguyễn Thanh Phong
+
+Văn: 6,25 Toán: 3 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114806_Thái Đình Phong
+
+Văn: 7,25 Toán: 8,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114807_Hoàng Thiên Phú
+
+Văn: 7 Toán: 8,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114808_Nguyễn Gia Phú
+
+Văn: 7,25 Toán: 5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114809_Nguyễn Hồng Phú
+
+Văn: 6,75 Toán: 5,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114810_Nguyễn Trần Vương Phú
+
+Văn: 6,75 Toán: 7 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114811_Trần Nguyễn Thiên Phú
+
+Văn: 6,75 Toán: 7 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114812_Bùi Đăng Phúc
+
+Văn: Toán: Ngoại Ngữ: Môn Chuyên: 
+
+114813_Bùi Minh Phúc
+
+Văn: 6,5 Toán: 6 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114814_Hồ Mỹ Phúc
+
+Văn: 8,25 Toán: 7,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114815_Huỳnh Tấn Phúc
+
+Văn: 7 Toán: 6 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114816_Nguyễn Minh Tấn Phúc
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114817_Nguyễn Thanh Bảo Phúc
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114818_Quan Tiến Phúc
+
+Văn: 2,5 Toán: 3,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114819_Trần Minh Thiên Phúc
+
+Văn: 5,75 Toán: 3,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114820_Trần Nguyễn Hoàng Phúc
+
+Văn: 5,25 Toán: 1,5 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+114821_Trần Trương Vĩnh Phúc
+
+Văn: 3 Toán: 1,5 Ngoại Ngữ: 1,5 Môn Chuyên: 0
+
+114822_Võ Đắc Phúc
+
+Văn: 6,75 Toán: 6,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114823_Võ Kim Phúc
+
+Văn: 7,5 Toán: 3 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114824_Hồ Hải Phước
+
+Văn: 7,75 Toán: 7,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114825_Nguyễn Minh Phước
+
+Văn: 6,25 Toán: 4,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114826_Nguyễn Thiện Phước
+
+Văn: 6,25 Toán: 3,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114827_Đinh Lan Phương
+
+Văn: 6,75 Toán: 2,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114828_Hồ Ngọc Trúc Phương
+
+Văn: 5,75 Toán: 5,5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114829_Hoàng Lan Phương
+
+Văn: 7,75 Toán: 6,5 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114830_Hoàng Ngọc Lan Phương
+
+Văn: 7,75 Toán: 9,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114831_Lê Trúc Phương
+
+Văn: 7,5 Toán: 5,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114832_Nguyễn Hà Phương
+
+Văn: 6,25 Toán: 6 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114833_Nguyễn Huỳnh Thúy Phương
+
+Văn: 8,25 Toán: 7,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114834_Nguyễn Lam Phương
+
+Văn: 8 Toán: 5,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114835_Nguyễn Ngọc Thu Phương
+
+Văn: 6,25 Toán: 6,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114836_Trần Hà Phương
+
+Văn: 7,5 Toán: 6 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114837_Trần Minh Phương
+
+Văn: 6,75 Toán: 4,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114838_Trần Uyên Phương
+
+Văn: 7 Toán: 3,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114839_Võ Trần Uyên Phương
+
+Văn: 8 Toán: 7,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114840_Nguyễn Anh Quân
+
+Văn: 6 Toán: 3 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114841_Nguyễn Lê Quân
+
+Văn: 7,5 Toán: 6,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114842_Nguyễn Minh Quân
+
+Văn: 5,25 Toán: 3 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114843_Nguyễn Vũ Anh Quân
+
+Văn: 7,5 Toán: 8 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114844_Trần Phúc Anh Quân
+
+Văn: 6,75 Toán: 5 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114845_Trần Thiện Quân
+
+Văn: 5 Toán: 2,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114846_Vũ Đàm Quân
+
+Văn: 7,5 Toán: 6,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114847_Vũ Mạnh Quân
+
+Văn: 7,75 Toán: 8,75 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114848_Đặng Nguyễn Nhật Quang
+
+Văn: 7,5 Toán: 7,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114849_Trần Ngọc Vinh Quang
+
+Văn: 6,75 Toán: 6,25 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114850_Lê Bảo Quỳnh
+
+Văn: 6,75 Toán: 5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114851_Nguyễn Phạm Như Quỳnh
+
+Văn: 7 Toán: 2,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114852_Phan Nguyễn Thảo Quỳnh
+
+Văn: 6 Toán: 2,75 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+114853_Nguyễn Lê Bảo Sâm
+
+Văn: 7,75 Toán: 6 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114854_Huỳnh San San
+
+Văn: 6,25 Toán: 5,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114855_Lê Thái Sang
+
+Văn: 7,25 Toán: 4 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114856_Hoàng Thái Sơn
+
+Văn: 3 Toán: 2,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114857_Lâm Hải Sơn
+
+Văn: 2,5 Toán: 3,5 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+114858_Trần Thái Tài
+
+Văn: 5,5 Toán: 6,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114859_Nguyễn Duy Thanh Tâm
+
+Văn: 5,75 Toán: 2,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114860_Nguyễn Tiến Tâm
+
+Văn: 5 Toán: 6,75 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114861_Nguyễn Toàn Tâm
+
+Văn: 7 Toán: 9 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114862_Nguyễn Xuân Tâm
+
+Văn: 8 Toán: 6,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114863_Phạm Hữu Tâm
+
+Văn: 5 Toán: 4 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114864_Phan Minh Tâm
+
+Văn: 7,25 Toán: 3,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114865_Quan Minh Tâm
+
+Văn: 8 Toán: 7 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114866_Võ Lê Minh Tâm
+
+Văn: 6,75 Toán: 5,5 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114867_Tân Trần Nhựt Tân
+
+Văn: 2,5 Toán: 7 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114868_Lê Quốc Thái
+
+Văn: 8 Toán: 6,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114869_Phạm Quốc Thắng
+
+Văn: 6,5 Toán: 3,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114870_Đào Ngọc Mai Thanh
+
+Văn: 4,75 Toán: 6,5 Ngoại Ngữ: 5,75 Môn Chuyên: 0
+
+114871_Dương Quang Thanh
+
+Văn: 4,5 Toán: 2,5 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114872_Nguyễn Hoài Thanh
+
+Văn: 7 Toán: 6,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114873_Trần Ngọc Kiều Thanh
+
+Văn: 5,5 Toán: 6,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114874_Đặng Phước Thành
+
+Văn: 7 Toán: 3,5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114875_Mạc Nguyễn Phương Thảo
+
+Văn: 6,25 Toán: 4,5 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+114876_Nguyễn Ngọc Thảo
+
+Văn: 4,75 Toán: 1,5 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114877_Trần Nguyễn Phương Thảo
+
+Văn: 8 Toán: 4,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114878_Nguyễn Ngọc Tùng Thi
+
+Văn: 5,25 Toán: 4 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114879_Phạm Ngọc Thanh Thiên
+
+Văn: 7,5 Toán: 8,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114880_Phan Thuận Thiên
+
+Văn: 7 Toán: 8,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114881_Phan Văn Thiện
+
+Văn: 7 Toán: 7,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114882_Trần Hồ Ngọc Thiện
+
+Văn: 7,75 Toán: 7,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114883_Nguyễn Hoàng Thịnh
+
+Văn: 7 Toán: 2,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114884_Nguyễn Kim Thịnh
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114885_Nguyễn Tiến Thịnh
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114886_Nguyễn Văn Trường Thịnh
+
+Văn: 7 Toán: 5,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114887_Trần Kim Thịnh
+
+Văn: 7,75 Toán: 4,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114888_Trần Nguyễn Hoàng Thịnh
+
+Văn: 6,25 Toán: 2,75 Ngoại Ngữ: 1,5 Môn Chuyên: 0
+
+114889_Bùi Anh Thư
+
+Văn: 6,75 Toán: 2,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114890_Đinh Hoàng Lâm Thư
+
+Văn: 7,25 Toán: 6,75 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114891_Hồ Thanh Thư
+
+Văn: 7,5 Toán: 6,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114892_Huỳnh Ngọc Anh Thư
+
+Văn: 7 Toán: 9 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114893_Lê Anh Thư
+
+Văn: 6,25 Toán: 4,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114894_Lê Nguyễn Ngọc Thư
+
+Văn: 7,25 Toán: 5,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114895_Nguyễn Huỳnh Minh Thư
+
+Văn: 7,5 Toán: 8,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114896_Nguyễn Minh Thư
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114897_Nguyễn Ngọc Anh Thư
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114898_Nguyễn Ngọc Minh Thư
+
+Văn: 6,25 Toán: 3 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114899_Nguyễn Ngọc Minh Thư
+
+Văn: 6,25 Toán: 6,5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114900_Phan Nguyễn Minh Thư
+
+Văn: 8,25 Toán: 3,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114901_Trần Anh Thư
+
+Văn: 7,5 Toán: 7 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114902_Trần Đỗ Anh Thư
+
+Văn: 7,25 Toán: 7,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114903_Trần Vũ Anh Thư
+
+Văn: 8,25 Toán: 8 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114904_Võ Trần Minh Thư
+
+Văn: 8,5 Toán: 5,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114905_Vũ Thanh Thư
+
+Văn: 7 Toán: 4,25 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114906_Đặng Nguyễn Cao Thuận
+
+Văn: 4 Toán: 3,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114907_Lê Minh Thuận
+
+Văn: 7 Toán: 4,75 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114908_Nguyễn Lê Khánh Thuận
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114909_Trịnh Gia Thuận
+
+Văn: 7,75 Toán: 5,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114910_Trịnh Hoàng Thanh Thương
+
+Văn: 7,5 Toán: 4,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114911_Nguyễn Hồng Thúy
+
+Văn: 8 Toán: 6,5 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114912_Nguyễn Thị Mai Thúy
+
+Văn: 4,5 Toán: 2,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114913_Phan Ngọc Minh Thy
+
+Văn: 8 Toán: 9 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114914_Trần Thái Thy
+
+Văn: 8,75 Toán: 6 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114915_Trương Lê Uyên Thy
+
+Văn: 7,75 Toán: 6,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114916_Nguyễn Ngọc Thủy Tiên
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114917_Trần Thủy Tiên
+
+Văn: 7,5 Toán: 8 Ngoại Ngữ: 10 Môn Chuyên: 0
+
+114918_Hồ Huy Tiến
+
+Văn: 7,25 Toán: 5,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+114919_Trần Đại Tiến
+
+Văn: 8 Toán: 7,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114920_Võ Minh Tiến
+
+Văn: 3 Toán: 3 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+114921_Trang Mẫn Tiệp
+
+Văn: 7,5 Toán: 8 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114922_Huỳnh Lương Tín
+
+Văn: 7,75 Toán: 6 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114923_Trần Hoàng Tín
+
+Văn: 4,5 Toán: 3,25 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+114924_Lê Đình Minh Toàn
+
+Văn: 8,25 Toán: 8,5 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+114925_Nguyễn Hoàng Toàn
+
+Văn: 5,75 Toán: 2 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+114926_Trần Đình Toàn
+
+Văn: 8,5 Toán: 7 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114927_Trần An Tôn
+
+Văn: 8 Toán: 8 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114928_Nguyễn Hà Ngọc Trâm
+
+Văn: 8,25 Toán: 5,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114929_Phạm Quỳnh Trâm
+
+Văn: 6,75 Toán: 7 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114930_Trần Hà Bảo Trâm
+
+Văn: 8 Toán: 6,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114931_Huỳnh Quế Trân
+
+Văn: 7 Toán: 5,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114932_Lương Ngọc Bảo Trân
+
+Văn: 7,75 Toán: 7,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+114933_Phạm Ngọc Bảo Trân
+
+Văn: 7,5 Toán: 5,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114934_Đào Ngọc Kim Trang
+
+Văn: 7,25 Toán: 5,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114935_Hoàng Phương Trang
+
+Văn: 5,75 Toán: 5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114936_Nguyễn Hoàng Phương Trang
+
+Văn: 5 Toán: 5,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114937_Nguyễn Thị Thùy Trang
+
+Văn: 8,5 Toán: 6 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114938_Võ Ngọc Thùy Trang
+
+Văn: 7,5 Toán: 3,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114939_Nguyễn Minh Trí
+
+Văn: 7,5 Toán: 3,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114940_Phan Nguyễn Cao Trí
+
+Văn: 7 Toán: 3,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114941_Trần Công Trí
+
+Văn: 6,5 Toán: 3,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114942_Trần Đường Đức Trí
+
+Văn: 5,5 Toán: 5,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114943_Trần Minh Trí
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114944_Trần Thiện Trí
+
+Văn: 7,75 Toán: 7,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114945_Võ Nhân Trí
+
+Văn: 6,25 Toán: 7 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114946_Bùi Minh Triết
+
+Văn: 3 Toán: 3,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114947_Trần Hữu Minh Triết
+
+Văn: 6,5 Toán: 2,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114948_Trần Vũ Minh Triết
+
+Văn: 6 Toán: 3,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114949_Nguyễn Hồng Ngọc Trinh
+
+Văn: 8,25 Toán: 6,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114950_Huỳnh Mai Nhất Trình
+
+Văn: 7,5 Toán: 6 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114951_Nguyễn Thanh Trọng
+
+Văn: 8 Toán: 4 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114952_Nguyễn Vương Phú Trọng
+
+Văn: 6,25 Toán: 3,25 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114953_Lương Đào Thanh Trúc
+
+Văn: 8,75 Toán: 8,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114954_Nguyễn Kiều Thanh Trúc
+
+Văn: 8,75 Toán: 5,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114955_Nguyễn Thanh Trúc
+
+Văn: 6,25 Toán: 3,75 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+114956_Tạ Thanh Trúc
+
+Văn: 6 Toán: 5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114957_Dương Thành Trung
+
+Văn: 7,5 Toán: 8,25 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114958_Nguyễn Minh Trung
+
+Văn: 5 Toán: 6 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114959_Nguyễn Vũ Trung
+
+Văn: 7 Toán: 5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114960_Đan Duy Tuấn Trường
+
+Văn: 5 Toán: 4 Ngoại Ngữ: 3 Môn Chuyên: 0
+
+114961_Lê Thanh Trường
+
+Văn: 7,25 Toán: 3,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114962_Nguyễn Tuấn Trường
+
+Văn: 7,75 Toán: 5,25 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114963_Nguyễn Đắc Trưởng
+
+Văn: Toán: Ngoại Ngữ: Môn Chuyên: 
+
+114964_Nguyễn Xuân Tú
+
+Văn: 5,75 Toán: 5,5 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+114965_Phạm Thanh Tú
+
+Văn: 5,75 Toán: 4,75 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114966_Phan Ngọc Tú
+
+Văn: 7 Toán: 7,5 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114967_Vũ Ngọc Tú
+
+Văn: 8,75 Toán: 4,5 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114968_Nguyễn Đình Tuấn
+
+Văn: 7,5 Toán: 4,25 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+114969_Nguyễn Lê Minh Tuấn
+
+Văn: 8,5 Toán: 7,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114970_Nguyễn Minh Tuấn
+
+Văn: 5 Toán: 5,75 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114971_Trần Văn Tuấn
+
+Văn: 6,75 Toán: 3,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114972_Vương Gia Tuệ
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114973_Hà Thanh Lý Tùng
+
+Văn: 8 Toán: 2,25 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+114974_Lâm Thanh Tùng
+
+Văn: 6 Toán: 2,5 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+114975_Phạm Hồng Tươi
+
+Văn: 5,5 Toán: 3 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114976_Trần Ngọc Cát Tường
+
+Văn: 6,25 Toán: 5,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114977_Nguyễn Việt Phương Uyên
+
+Văn: 8 Toán: 7 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+114978_Phạm Trần Thái Uyên
+
+Văn: 7 Toán: 4,25 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114979_Huỳnh Kiều Na Di Vân
+
+Văn: 7,75 Toán: 3,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+114980_Huỳnh Thiên Vân
+
+Văn: 6,75 Toán: 2,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114981_Nguyễn Phương Tú Vân
+
+Văn: 7,5 Toán: 2,75 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+114982_Phạm Nguyễn Hoàng Vân
+
+Văn: 7,25 Toán: 5,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+114983_Nguyễn Ngọc Tường Vi
+
+Văn: 6,25 Toán: 5 Ngoại Ngữ: 4,25 Môn Chuyên: 0
+
+114984_Hà Quốc Việt
+
+Văn: 7,75 Toán: 7,5 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+114985_Nguyễn Anh Việt
+
+Văn: 7 Toán: 7 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114986_Phan Quốc Việt
+
+Văn: 7 Toán: 6,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114987_Thái Doãn Trí Việt
+
+Văn: 7 Toán: 7,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114988_Bùi Hữu Vinh
+
+Văn: 6,5 Toán: 3,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+114989_Trần Hợp Nam Vĩnh
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+114990_Lê Anh Vũ
+
+Văn: 7 Toán: 6,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114991_Nguyễn Ngô Chấn Vũ
+
+Văn: 6,25 Toán: 5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+114992_Đặng Kim Vy
+
+Văn: 8 Toán: 4,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114993_Đặng Ngọc Vy
+
+Văn: 7,75 Toán: 4,75 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+114994_Đinh Đoàn Đoan Vy
+
+Văn: 8,75 Toán: 4,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+114995_Huỳnh Phương Thúy Vy
+
+Văn: 7,5 Toán: 6,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+114996_Lâm Nguyễn Trúc Vy
+
+Văn: 7,75 Toán: 6 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+114997_Lê Bảo Vy
+
+Văn: 7,25 Toán: 4 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+114998_Lục Triệu Vy
+
+Văn: 6,75 Toán: 5,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+114999_Nguyễn Hoàng Khánh Vy
+
+Văn: 8 Toán: 8,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+115000_Nguyễn Lâm Lê Vy
+
+Văn: 7,75 Toán: 4,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+115001_Nguyễn Phương Vy
+
+Văn: 7,5 Toán: 7,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+115002_Phan Hoàng Trúc Vy
+
+Văn: 6,5 Toán: 7 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+115003_Trần Lê Phương Vy
+
+Văn: 5,75 Toán: 6,25 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+115004_Võ Thanh Vy
+
+Văn: 6,75 Toán: 2,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+115005_Trần Ngọc Như Ý
+
+Văn: 6,75 Toán: 7 Ngoại Ngữ: 9,75 Môn Chuyên: 0
+
+115006_Bùi Hải Yến
+
+Văn: 7,25 Toán: 7,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+115007_Đinh Thị Mỹ Yến
+
+Văn: 5,75 Toán: 4,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+115008_Huỳnh Hải Yến
+
+Văn: 5,25 Toán: 4,75 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+115009_Phùng Hoàng Yến
+
+Văn: 7,75 Toán: 7 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+115010_Nguyễn Phú An
+
+Văn: 5,75 Toán: 4,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+115011_Trần Hải An
+
+Văn: Toán: Ngoại Ngữ: Môn Chuyên: 
+
+115012_Triệu Khánh An
+
+Văn: 7,75 Toán: 5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+115013_Bùi Vân Anh
+
+Văn: 6,25 Toán: 6,5 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+115014_Châu Ngọc Quỳnh Anh
+
+Văn: 3,75 Toán: 2,75 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+115015_Đinh Nhật Anh
+
+Văn: 7 Toán: 5,75 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+115016_Đoàn Quỳnh Anh
+
+Văn: 7,25 Toán: 3,5 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+115017_Lê Hồng Anh
+
+Văn: 6,25 Toán: 3,25 Ngoại Ngữ: 4,5 Môn Chuyên: 0
+
+115018_Mai Thị Quỳnh Anh
+
+Văn: 6 Toán: 5,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+115019_Ngô Phương Anh
+
+Văn: 7,75 Toán: 5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+115020_Nguyễn Đình Quốc Anh
+
+Văn: 6,25 Toán: 6 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+115021_Nguyễn Đức Duy Anh
+
+Văn: 7,5 Toán: 7,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+115022_Nguyễn Duy Anh
+
+Văn: 6,25 Toán: 6 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+115023_Nguyễn Minh Anh
+
+Văn: 7,25 Toán: 3,25 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+115024_Nguyễn Ngọc Minh Anh
+
+Văn: 7 Toán: 8 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+115025_Nguyễn Ngọc Phương Anh
+
+Văn: 6 Toán: 3,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+115026_Nguyễn Ngọc Quỳnh Anh
+
+Văn: 7,5 Toán: 2,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+115027_Nguyễn Ngọc Trâm Anh
+
+Văn: 7,25 Toán: 4 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+115028_Nguyễn Phạm Tuấn Anh
+
+Văn: 7,5 Toán: 7,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+115029_Phạm Thị Vân Anh
+
+Văn: 6,25 Toán: 2,75 Ngoại Ngữ: 1,75 Môn Chuyên: 0
+
+115030_Phạm Trần Quỳnh Anh
+
+Văn: 8,25 Toán: 7 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+115031_Phan Kim Anh
+
+Văn: 5,5 Toán: 4,5 Ngoại Ngữ: 6 Môn Chuyên: 0
+
+115032_Phan Nguyễn Lan Anh
+
+Văn: 6,75 Toán: 6,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+115033_Trần Ngọc Quỳnh Anh
+
+Văn: 7,5 Toán: 6,75 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+115034_Trần Thị Kim Anh
+
+Văn: 3,25 Toán: 1,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+115035_Trịnh Tuấn Anh
+
+Văn: 6,25 Toán: 6,5 Ngoại Ngữ: 7,5 Môn Chuyên: 0
+
+115036_Võ Ngọc Lam Anh
+
+Văn: 5,5 Toán: 4,75 Ngoại Ngữ: 8 Môn Chuyên: 0
+
+115037_Vũ Thị Quỳnh Anh
+
+Văn: 7,25 Toán: 5,25 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+115038_Nguyễn Ngọc Ánh
+
+Văn: 6,5 Toán: 3,5 Ngoại Ngữ: 4,75 Môn Chuyên: 0
+
+115039_Phạm Ngọc Ánh
+
+Văn: 6,25 Toán: 4 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+115040_Nguyễn Hoài Bắc
+
+Văn: 7,75 Toán: 5,25 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+115041_Cáp Nguyễn Gia Bảo
+
+Văn: 8 Toán: 9 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+115042_Châu Gia Bảo
+
+Văn: 7,25 Toán: 8,25 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+115043_Đinh Quốc Bảo
+
+Văn: 4,25 Toán: 3,25 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+115044_Hồ Gia Bảo
+
+Văn: 5,75 Toán: 5,25 Ngoại Ngữ: 3,25 Môn Chuyên: 0
+
+115045_Nguyễn Đoàn Thế Bảo
+
+Văn: 4,75 Toán: 2,25 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+115046_Phan Võ Xuân Bảo
+
+Văn: 6,5 Toán: 4 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+115047_Trần Phúc Bảo
+
+Văn: 7,5 Toán: 2,75 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+115048_Văn Gia Bảo
+
+Văn: 8 Toán: 3,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+115049_Nguyễn Thị Bé Bi
+
+Văn: 4,25 Toán: 2,25 Ngoại Ngữ: 3,75 Môn Chuyên: 0
+
+115050_Đinh Thanh Bình
+
+Văn: 6,5 Toán: 4,5 Ngoại Ngữ: 5,5 Môn Chuyên: 0
+
+115051_Dương Thị Xuân Bình
+
+Văn: 8 Toán: 6 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+115052_Trương Gia Bình
+
+Văn: 6,75 Toán: 8 Ngoại Ngữ: 9,25 Môn Chuyên: 0
+
+115053_Huỳnh Minh Châu
+
+Văn: 4,75 Toán: 3,25 Ngoại Ngữ: 1,5 Môn Chuyên: 0
+
+115054_Phan Vũ Hồng Châu
+
+Văn: 7,75 Toán: 4,75 Ngoại Ngữ: 6,5 Môn Chuyên: 0
+
+115055_Trần Nguyễn Minh Châu
+
+Văn: 7,5 Toán: 4,75 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+115056_Trần Đình Khánh Chi
+
+Văn: 8,5 Toán: 6,5 Ngoại Ngữ: 9,5 Môn Chuyên: 0
+
+115057_Nguyễn Bá Cường
+
+Văn: 5,75 Toán: 4 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+115058_Nguyễn Hùng Cường
+
+Văn: 8,25 Toán: 6 Ngoại Ngữ: 7,75 Môn Chuyên: 0
+
+115059_Nguyễn Kim Đan
+
+Văn: 7,75 Toán: 3,25 Ngoại Ngữ: 6,75 Môn Chuyên: 0
+
+115060_Lâm Thành Danh
+
+Văn: 6,5 Toán: 2 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+115061_Nguyễn Thành Danh
+
+Văn: 3 Toán: 2,25 Ngoại Ngữ: 6,25 Môn Chuyên: 0
+
+115062_Nguyễn Thành Danh
+
+Văn: 8 Toán: 6,25 Ngoại Ngữ: 8,25 Môn Chuyên: 0
+
+115063_Nguyễn Thành Danh
+
+Văn: 5,5 Toán: 6 Ngoại Ngữ: 4 Môn Chuyên: 0
+
+115064_Bùi Tấn Đạt
+
+Văn: 7,75 Toán: 6,5 Ngoại Ngữ: 8,75 Môn Chuyên: 0
+
+115065_Đặng Huỳnh Thành Đạt
+
+Văn: 4,75 Toán: 5 Ngoại Ngữ: 5,25 Môn Chuyên: 0
+
+115066_Nguyễn Phúc Đạt
+
+Văn: 6,25 Toán: 5,75 Ngoại Ngữ: 7,25 Môn Chuyên: 0
+
+115067_Nguyễn Tiến Đạt
+
+Văn: 4,25 Toán: 3 Ngoại Ngữ: 2,5 Môn Chuyên: 0
+
+115068_Lê Trần Ngọc Diệp
+
+Văn: 8 Toán: 5,5 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+115069_Hà Nhuận Đông
+
+Văn: 3,5 Toán: 2 Ngoại Ngữ: 2,75 Môn Chuyên: 0
+
+115070_Nguyễn Tuấn Du
+
+Văn: 8,25 Toán: 5,75 Ngoại Ngữ: 7 Môn Chuyên: 0
+
+115071_Bạch Mỹ Dung
+
+Văn: 7,25 Toán: 3,75 Ngoại Ngữ: 3,5 Môn Chuyên: 0
+
+115072_Huỳnh Vũ Trí Dũng
+
+Văn: 6,25 Toán: 9 Ngoại Ngữ: 9 Môn Chuyên: 0
+
+115073_Nguyễn Thị Thùy Dương
+
+Văn: 8,25 Toán: 6,25 Ngoại Ngữ: 9 Môn Chuyên: 0
+116479_Lâm Gia MẫnVăn: 7,5 Toán: 6,5 Ngoại Ngữ: 6,75 Môn Chuyên: 0
