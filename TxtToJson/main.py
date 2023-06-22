@@ -14,7 +14,7 @@ with (open(read_path, 'r', encoding='utf-8')) as f:
         if not name: break
         sbd = name[:name.index('_')]
         print(sbd)
-        name = name[name.index('_') + 1 : len(name)].replace('\n', '')
+        name = name[name.index('_') + 1 : len(name)].replace('\n', '').lower().title()
         score = f.readline()
         litScore = score[score.index("Văn: "):score.index("Toán")].replace("Văn: ", '').replace(" ", '')
         mathScore = score[score.index("Toán: "):score.index("Ngoại Ngữ")].replace("Toán: ", '').replace(" ", '')
