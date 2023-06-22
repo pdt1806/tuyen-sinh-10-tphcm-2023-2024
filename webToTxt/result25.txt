@@ -13236,4 +13236,9 @@ Văn: 6 Toán: 3,5 Ngoại Ngữ: 7,25 Môn Chuyên: 0
 Văn: 6,25 Toán: 7,5 Ngoại Ngữ: 8 Môn Chuyên: 0
 
 172750_Phạm Hoàng Bảo Ngọc
-172749_PHẠM ÁNH NGỌCVăn: 7,25 Toán: 6 Ngoại Ngữ: 8,5 Môn Chuyên: 0
+
+Văn: 5,5 Toán: 3,5 Ngoại Ngữ: 5 Môn Chuyên: 0
+
+172749_PHẠM ÁNH NGỌC
+
+Văn: 7,25 Toán: 6 Ngoại Ngữ: 8,5 Môn Chuyên: 0

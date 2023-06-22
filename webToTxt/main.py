@@ -1,8 +1,5 @@
-import requests
-import os
-import sys
+import requests, os, sys, threading
 from bs4 import BeautifulSoup
-import threading
 
 session = requests.Session()
 
