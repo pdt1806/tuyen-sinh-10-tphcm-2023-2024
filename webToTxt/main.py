@@ -22,7 +22,7 @@ def get_score(indicator, min, max):
                     f.write(t.replace('  ',' ').replace('  ','').replace('\n',''))
 
 try:
-    first = 93309
+    first = 90000
     last = 93310
     for l in range(1, 31):
         threading.Thread(target=get_score, args=(l, first, last)).start()
